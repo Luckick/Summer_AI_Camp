@@ -1,0 +1,2974 @@
+season,result,map,team_role,match_length,character,char_role
+3,win,nepal,cp,22.0,ana,support
+3,loss,dorado,attack,6.0,ana,support
+3,loss,dorado,defend,4.0,torbjorn,damage
+3,loss,king's row,attack,8.0,lucio,support
+3,loss,king's row,defend,5.0,lucio,support
+3,loss,king's row,attack,1.0,lucio,support
+3,loss,king's row,defend,3.0,lucio,support
+3,loss,dorado,defend,12.0,lucio,support
+3,draw,hanamura,defend,9.0,ana,support
+3,draw,hanamura,attack,7.0,ana,support
+3,draw,hanamura,attack,2.0,lucio,support
+3,win,king's row,defend,10.0,ana,support
+3,win,king's row,attack,7.0,ana,support
+3,win,illios,cp,13.0,lucio,support
+3,draw,volskaya industries,attack,4.0,ana,support
+3,draw,volskaya industries,defend,8.0,ana,support
+3,draw,volskaya industries,defend,5.0,ana,support
+3,draw,volskaya industries,attack,6.0,lucio,support
+3,draw,volskaya industries,defend,6.0,lucio,support
+3,draw,volskaya industries,attack,2.0,lucio,support
+3,win,dorado,defend,6.0,mercy,support
+3,win,dorado,attack,3.0,zen,support
+3,win,eichenwalde,attack,8.0,lucio,support
+3,win,eichenwalde,defend,12.0,ana,support
+3,win,illios,cp,11.0,lucio,support
+3,win,hanamura,attack,9.0,ana,support
+3,loss,temple of anubis,defend,7.0,mercy,support
+3,loss,temple of anubis,attack,10.0,lucio,support
+3,loss,temple of anubis,defend,2.0,zen,support
+3,loss,gibraltar,attack,5.0,lucio,support
+3,loss,gibraltar,defend,1.0,ana,support
+3,win,king's row,defend,4.0,mercy,support
+3,win,king's row,attack,3.0,zen,support
+3,loss,numbani,defend,5.0,mercy,support
+3,loss,numbani,attack,4.0,lucio,support
+3,loss,hollywood,defend,10.0,lucio,support
+3,loss,hollywood,attack,10.0,lucio,support
+3,loss,hollywood,defend,5.0,mercy,support
+3,loss,hollywood,attack,2.0,zen,support
+3,loss,nepal,cp,15.0,lucio,support
+3,win,eichenwalde,defend,8.0,ana,support
+3,win,eichenwalde,attack,6.0,ana,support
+3,win,hollywood,defend,7.0,ana,support
+3,win,hollywood,attack,5.0,ana,support
+3,loss,route 66,attack,3.0,ana,support
+3,loss,route 66,defend,2.0,ana,support
+3,win,numbani,attack,4.0,lucio,support
+3,win,numbani,defend,4.0,symmetra,damage
+3,win,temple of anubis,attack,5.0,ana,support
+3,win,temple of anubis,defend,5.0,symmetra,damage
+3,win,temple of anubis,defend,5.0,symmetra,damage
+3,win,temple of anubis,attack,5.0,lucio,support
+3,loss,hanamura,defend,5.0,ana,support
+3,loss,hanamura,attack,9.0,ana,support
+3,win,numbani,defend,5.0,ana,support
+3,win,numbani,attack,7.0,mercy,support
+3,win,numbani,attack,4.0,lucio,support
+3,win,numbani,defend,3.0,mercy,support
+3,loss,eichenwalde,attack,7.0,mercy,support
+3,loss,eichenwalde,defend,4.0,ana,support
+3,draw,volskaya industries,attack,6.0,lucio,support
+3,draw,volskaya industries,defend,9.0,mercy,support
+3,draw,volskaya industries,attack,3.0,ana,support
+3,loss,hanamura,defend,7.0,lucio,support
+3,loss,hanamura,attack,5.0,zen,support
+3,win,nepal,cp,22.0,lucio,support
+3,win,route 66,defend,8.0,ana,support
+3,win,route 66,attack,5.0,mercy,support
+3,win,gibraltar,defend,9.0,mercy,support
+3,win,gibraltar,attack,5.0,mercy,support
+3,loss,hollywood,defend,9.0,mercy,support
+3,loss,hollywood,attack,7.0,lucio,support
+3,loss,volskaya industries,attack,9.0,ana,support
+3,loss,volskaya industries,defend,6.0,mercy,support
+3,win,king's row,attack,9.0,zen,support
+3,win,king's row,defend,4.0,zen,support
+3,win,illios,cp,14.0,zen,support
+3,draw,numbani,defend,5.0,mercy,support
+3,draw,numbani,attack,5.0,mercy,support
+3,win,hanamura,defend,7.0,mercy,support
+3,win,hanamura,attack,3.0,mercy,support
+3,win,hanamura,defend,1.0,mercy,support
+3,win,hanamura,attack,3.0,mercy,support
+3,win,illios,cp,15.0,lucio,support
+3,win,nepal,cp,17.0,lucio,support
+3,loss,king's row,attack,8.0,lucio,support
+3,loss,king's row,defend,3.0,symmetra,damage
+3,loss,gibraltar,attack,4.0,mercy,support
+3,loss,gibraltar,defend,2.0,mercy,support
+3,loss,route 66,defend,5.0,mercy,support
+3,loss,route 66,attack,5.0,ana,support
+3,loss,hollywood,defend,8.0,zen,support
+3,loss,hollywood,attack,9.0,zen,support
+3,loss,gibraltar,attack,7.0,ana,support
+3,loss,gibraltar,defend,6.0,ana,support
+3,loss,temple of anubis,defend,7.0,lucio,support
+3,loss,temple of anubis,attack,5.0,ana,support
+3,loss,temple of anubis,defend,4.0,ana,support
+3,loss,temple of anubis,attack,4.0,ana,support
+3,loss,illios,cp,21.0,ana,support
+3,win,hollywood,attack,10.0,ana,support
+3,win,hollywood,defend,8.0,ana,support
+3,win,dorado,defend,8.0,ana,support
+3,win,dorado,attack,5.0,ana,support
+3,loss,temple of anubis,attack,8.0,ana,support
+3,loss,temple of anubis,defend,10.0,mercy,support
+3,draw,eichenwalde,attack,4.0,ana,support
+3,draw,eichenwalde,defend,4.0,mercy,support
+3,loss,numbani,defend,8.0,mercy,support
+3,loss,numbani,attack,5.0,ana,support
+3,loss,numbani,attack,6.0,ana,support
+3,loss,numbani,defend,6.0,ana,support
+3,win,lijiang tower,cp,20.0,lucio,support
+3,loss,route 66,defend,5.0,ana,support
+3,loss,route 66,attack,8.0,mercy,support
+3,loss,hollywood,defend,7.0,ana,support
+3,loss,hollywood,attack,9.0,mercy,support
+3,loss,illios,cp,20.0,lucio,support
+3,draw,temple of anubis,attack,5.0,lucio,support
+3,draw,temple of anubis,defend,5.0,symmetra,damage
+3,win,gibraltar,attack,8.0,lucio,support
+3,win,gibraltar,defend,7.0,zen,support
+3,win,hanamura,attack,4.0,ana,support
+3,win,hanamura,defend,3.0,symmetra,damage
+3,win,hanamura,attack,5.0,ana,support
+3,win,hanamura,defend,6.0,mercy,support
+3,win,eichenwalde,attack,7.0,ana,support
+3,win,eichenwalde,defend,4.0,ana,support
+3,loss,hollywood,attack,9.0,ana,support
+3,loss,hollywood,defend,8.0,ana,support
+3,loss,nepal,cp,12.0,ana,support
+3,loss,lijiang tower,cp,21.0,ana,support
+3,draw,king's row,defend,4.0,zen,support
+3,draw,king's row,attack,4.0,zen,support
+3,loss,volskaya industries,defend,3.5,ana,support
+3,loss,volskaya industries,attack,6.0,ana,support
+3,loss,volskaya industries,attack,3.0,ana,support
+3,loss,volskaya industries,defend,3.0,symmetra,damage
+3,loss,route 66,attack,4.0,ana,support
+3,loss,route 66,defend,4.0,mercy,support
+3,win,lijiang tower,cp,15.0,lucio,support
+3,win,numbani,defend,8.0,zen,support
+3,win,numbani,attack,3.5,lucio,support
+3,win,numbani,attack,1.0,lucio,support
+3,win,eichenwalde,defend,7.0,lucio,support
+3,win,eichenwalde,attack,6.5,ana,support
+3,win,eichenwalde,defend,5.0,lucio,support
+3,win,eichenwalde,attack,3.1,lucio,support
+3,loss,route 66,defend,6.0,ana,support
+3,loss,route 66,attack,5.0,ana,support
+3,loss,route 66,defend,2.0,ana,support
+3,loss,route 66,attack,3.0,ana,support
+3,loss,illios,cp,17.0,lucio,support
+3,win,lijiang tower,cp,16.0,lucio,support
+3,loss,dorado,defend,7.5,lucio,support
+3,loss,dorado,attack,9.5,zen,support
+3,win,illios,cp,13.5,lucio,support
+3,win,hanamura,attack,11.0,ana,support
+3,win,hanamura,defend,10.0,lucio,support
+3,loss,numbani,attack,8.0,ana,support
+3,loss,numbani,defend,7.5,ana,support
+3,win,route 66,attack,7.5,ana,support
+3,win,route 66,defend,4.5,ana,support
+3,loss,king's row,attack,9.0,ana,support
+3,loss,king's row,defend,4.0,zen,support
+3,win,illios,cp,21.0,lucio,support
+3,win,volskaya industries,defend,6.0,ana,support
+3,win,volskaya industries,attack,4.5,ana,support
+3,win,volskaya industries,defend,3.0,ana,support
+3,win,volskaya industries,attack,1.0,ana,support
+3,loss,temple of anubis,defend,2.5,ana,support
+3,loss,temple of anubis,attack,5.0,ana,support
+3,loss,gibraltar,defend,8.0,ana,support
+3,loss,gibraltar,attack,7.0,ana,support
+3,win,dorado,defend,7.0,ana,support
+3,win,dorado,attack,2.5,ana,support
+3,win,nepal,cp,14.5,ana,support
+3,loss,hanamura,attack,8.5,ana,support
+3,loss,hanamura,defend,5.0,ana,support
+3,win,temple of anubis,attack,5.0,ana,support
+3,win,temple of anubis,defend,8.5,ana,support
+3,loss,gibraltar,attack,6.0,ana,support
+3,loss,gibraltar,defend,5.5,ana,support
+3,loss,gibraltar,attack,3.5,ana,support
+3,loss,gibraltar,defend,3.5,ana,support
+3,win,numbani,attack,4.0,lucio,support
+3,win,numbani,defend,8.0,mercy,support
+3,win,numbani,defend,2.0,ana,support
+3,win,numbani,attack,1.5,ana,support
+3,draw,numbani,defend,4.5,ana,support
+3,draw,numbani,attack,5.0,ana,support
+3,loss,hollywood,defend,8.0,ana,support
+3,loss,hollywood,attack,7.5,lucio,support
+3,loss,hollywood,defend,2.0,ana,support
+3,loss,hollywood,attack,3.0,lucio,support
+3,loss,eichenwalde,defend,6.0,ana,support
+3,loss,eichenwalde,attack,8.5,ana,support
+3,loss,eichenwalde,attack,3.0,ana,support
+3,loss,eichenwalde,defend,5.0,ana,support
+3,win,king's row,attack,4.5,lucio,support
+3,win,king's row,defend,6.0,zen,support
+3,win,king's row,defend,2.5,zen,support
+3,win,king's row,attack,1.5,lucio,support
+3,win,volskaya industries,defend,8.0,lucio,support
+3,win,volskaya industries,attack,4.5,lucio,support
+3,loss,lijiang tower,cp,21.0,lucio,support
+3,loss,nepal,cp,11.0,lucio,support
+3,win,numbani,attack,4.5,zen,support
+3,win,numbani,defend,4.5,zen,support
+3,win,hollywood,attack,6.5,ana,support
+3,win,hollywood,defend,5.35,ana,support
+3,win,hollywood,attack,5.5,ana,support
+3,win,hollywood,defend,3.5,ana,support
+3,loss,lijiang tower,cp,17.5,lucio,support
+3,loss,nepal,cp,19.0,lucio,support
+3,win,king's row,attack,8.5,zen,support
+3,win,king's row,defend,8.5,zen,support
+3,win,lijiang tower,cp,14.5,lucio,support
+3,loss,nepal,cp,17.0,lucio,support
+3,win,temple of anubis,defend,8.0,ana,support
+3,win,temple of anubis,attack,4.0,ana,support
+3,win,dorado,defend,7.0,zen,support
+3,win,dorado,attack,2.5,zen,support
+3,draw,hanamura,attack,8.0,ana,support
+3,draw,hanamura,defend,8.5,zen,support
+3,loss,eichenwalde,attack,5.0,ana,support
+3,loss,eichenwalde,defend,4.5,ana,support
+3,loss,king's row,attack,9.5,lucio,support
+3,loss,king's row,defend,7.5,mercy,support
+3,win,lijiang tower,cp,23.5,ana,support
+3,win,hollywood,attack,8.5,ana,support
+3,win,hollywood,defend,4.5,ana,support
+3,win,dorado,defend,5.5,ana,support
+3,win,dorado,attack,3.5,ana,support
+3,loss,gibraltar,attack,3.5,ana,support
+3,loss,gibraltar,defend,6.0,ana,support
+3,loss,gibraltar,defend,4.5,ana,support
+3,loss,gibraltar,attack,4.5,ana,support
+3,win,illios,cp,13.0,lucio,support
+3,win,eichenwalde,attack,9.0,zen,support
+3,win,eichenwalde,defend,8.0,ana,support
+3,win,nepal,cp,16.5,ana,support
+3,loss,numbani,attack,8.0,ana,support
+3,loss,numbani,defend,7.5,ana,support
+3,win,route 66,attack,7.0,zen,support
+3,win,dorado,defend,7.0,ana,support
+3,win,dorado,attack,7.0,ana,support
+3,win,volskaya industries,attack,4.0,ana,support
+3,win,volskaya industries,defend,8.0,ana,support
+3,loss,king's row,attack,8.5,ana,support
+3,loss,king's row,defend,7.0,ana,support
+3,win,gibraltar,defend,9.0,zen,support
+3,win,gibraltar,attack,7.0,zen,support
+3,win,king's row,attack,4.5,zen,support
+3,win,king's row,defend,7.0,zen,support
+3,loss,route 66,defend,7.5,zen,support
+3,loss,route 66,attack,5.5,zen,support
+3,win,lijiang tower,cp,13.5,ana,support
+3,loss,hollywood,attack,9.0,zen,support
+3,loss,hollywood,defend,6.5,zen,support
+3,win,dorado,attack,7.5,zen,support
+3,win,dorado,defend,4.5,zen,support
+3,loss,lijiang tower,cp,20.0,zen,support
+3,win,volskaya industries,defend,8.5,zen,support
+3,win,volskaya industries,attack,5.0,zen,support
+3,loss,illios,cp,28.0,zen,support
+3,loss,temple of anubis,defend,2.5,zen,support
+3,loss,temple of anubis,attack,8.0,lucio,support
+3,loss,eichenwalde,defend,8.5,zen,support
+3,loss,eichenwalde,attack,7.0,zen,support
+3,win,hollywood,defend,6.5,symmetra,damage
+3,win,hollywood,attack,3.0,zen,support
+3,win,lijiang tower,cp,19.0,symmetra,damage
+3,win,hanamura,attack,7.0,ana,support
+3,win,hanamura,defend,4.5,zen,support
+3,loss,dorado,attack,7.0,ana,support
+3,loss,dorado,defend,8.0,zen,support
+3,loss,dorado,defend,5.0,zen,support
+3,loss,dorado,attack,3.0,ana,support
+3,loss,nepal,cp,24.0,ana,support
+3,loss,numbani,defend,6.0,mercy,support
+3,loss,numbani,attack,4.0,zen,support
+3,win,dorado,defend,6.0,zen,support
+3,win,dorado,attack,9.5,mercy,support
+3,win,dorado,attack,2.0,zen,support
+3,win,dorado,defend,4.0,zen,support
+3,loss,king's row,attack,20.0,ana,support
+3,loss,king's row,defend,10.0,ana,support
+3,loss,hollywood,attack,6.5,ana,support
+3,loss,hollywood,defend,16.0,ana,support
+3,loss,hollywood,attack,2.0,ana,support
+3,loss,hollywood,defend,4.0,ana,support
+3,loss,gibraltar,attack,6.0,ana,support
+3,loss,gibraltar,defend,1.5,zen,support
+3,loss,route 66,defend,5.5,ana,support
+3,loss,route 66,attack,6.0,ana,support
+3,loss,gibraltar,defend,5.0,zen,support
+3,loss,gibraltar,attack,5.5,zen,support
+3,loss,gibraltar,defend,5.0,ana,support
+3,loss,gibraltar,attack,4.5,ana,support
+3,loss,temple of anubis,defend,4.5,ana,support
+3,loss,temple of anubis,attack,5.0,ana,support
+3,loss,route 66,defend,7.0,zen,support
+3,loss,route 66,defend,1.5,zen,support
+3,loss,route 66,attack,2.0,zen,support
+3,loss,numbani,defend,8.5,symmetra,damage
+3,loss,numbani,attack,8.3,symmetra,damage
+3,win,hollywood,defend,7.0,symmetra,damage
+3,win,hollywood,attack,7.5,symmetra,damage
+3,loss,hanamura,defend,8.5,symmetra,damage
+3,loss,hanamura,attack,4.5,symmetra,damage
+3,loss,numbani,defend,8.0,symmetra,damage
+3,loss,numbani,attack,4.5,lucio,support
+3,loss,route 66,defend,5.5,ana,support
+3,loss,route 66,attack,5.5,mercy,support
+3,win,lijiang tower,cp,21.0,lucio,support
+3,loss,nepal,cp,17.0,lucio,support
+3,loss,illios,cp,22.0,lucio,support
+3,loss,hanamura,defend,9.5,symmetra,damage
+3,loss,hanamura,attack,5.5,ana,support
+3,win,lijiang tower,cp,15.0,zen,support
+3,loss,route 66,defend,4.5,zen,support
+3,loss,route 66,attack,4.5,zen,support
+3,win,eichenwalde,attack,7.5,ana,support
+3,win,eichenwalde,defend,5.5,ana,support
+3,win,hanamura,attack,2.0,zen,support
+3,win,hanamura,defend,8.5,zen,support
+3,win,numbani,defend,8.0,zen,support
+3,win,numbani,attack,4.0,mercy,support
+3,win,gibraltar,defend,4.5,zen,support
+3,win,gibraltar,attack,2.5,mercy,support
+3,loss,eichenwalde,defend,8.0,ana,support
+3,loss,eichenwalde,attack,4.5,ana,support
+3,win,temple of anubis,defend,8.0,ana,support
+3,win,temple of anubis,attack,4.0,ana,support
+3,win,numbani,defend,4.5,ana,support
+3,win,numbani,attack,4.5,ana,support
+3,draw,volskaya industries,defend,4.0,ana,support
+3,draw,volskaya industries,attack,4.5,ana,support
+3,loss,lijiang tower,cp,24.0,ana,support
+3,draw,hollywood,attack,4.0,ana,support
+3,draw,hollywood,defend,4.0,symmetra,damage
+3,draw,numbani,attack,4.5,ana,support
+3,draw,numbani,defend,4.5,symmetra,damage
+3,win,oasis,cp,17.0,zen,support
+3,win,volskaya industries,defend,9.0,mercy,support
+3,win,volskaya industries,attack,9.5,zen,support
+3,win,volskaya industries,attack,2.5,zen,support
+3,win,temple of anubis,defend,4.5,zen,support
+3,win,temple of anubis,attack,1.5,zen,support
+3,loss,dorado,defend,8.5,zen,support
+3,loss,dorado,attack,7.5,zen,support
+3,loss,hanamura,defend,7.5,zen,support
+3,loss,hanamura,attack,7.5,zen,support
+3,loss,hanamura,attack,1.0,zen,support
+3,loss,hanamura,defend,2.5,zen,support
+3,loss,gibraltar,defend,6.0,zen,support
+3,loss,gibraltar,attack,7.0,zen,support
+3,loss,gibraltar,attack,1.0,zen,support
+3,loss,gibraltar,defend,2.5,zen,support
+3,win,route 66,attack,8.5,zen,support
+3,win,route 66,defend,4.5,zen,support
+3,win,route 66,attack,6.0,ana,support
+3,win,route 66,defend,6.5,zen,support
+3,loss,gibraltar,defend,8.5,zen,support
+3,loss,gibraltar,attack,9.0,zen,support
+3,win,numbani,defend,8.5,zen,support
+3,win,numbani,attack,3.5,zen,support
+3,loss,king's row,attack,8.0,ana,support
+3,loss,king's row,defend,3.0,ana,support
+3,win,hanamura,attack,8.0,zen,support
+3,win,hanamura,defend,4.5,symmetra,damage
+3,win,king's row,attack,4.5,zen,support
+3,win,king's row,defend,4.0,zen,support
+3,win,nepal,cp,27.5,zen,support
+3,win,temple of anubis,defend,1.0,zen,support
+3,win,temple of anubis,attack,1.5,zen,support
+3,win,numbani,defend,9.0,zen,support
+3,win,numbani,attack,5.5,zen,support
+3,win,route 66,attack,8.5,zen,support
+3,win,route 66,defend,8.5,zen,support
+3,loss,volskaya industries,attack,8.5,zen,support
+3,loss,volskaya industries,defend,7.5,zen,support
+3,draw,hanamura,attack,4.0,zen,support
+3,draw,hanamura,defend,4.0,symmetra,damage
+3,win,dorado,attack,5.5,zen,support
+3,win,dorado,defend,8.5,zen,support
+3,win,dorado,defend,1.0,zen,support
+3,win,dorado,attack,0.5,zen,support
+3,win,numbani,attack,4.0,ana,support
+3,win,numbani,defend,8.5,ana,support
+3,win,king's row,defend,3.5,zen,support
+3,win,king's row,attack,5.0,ana,support
+3,win,king's row,attack,4.5,ana,support
+3,win,king's row,defend,7.5,ana,support
+3,loss,gibraltar,attack,8.5,ana,support
+3,loss,gibraltar,defend,8.5,ana,support
+3,loss,volskaya industries,attack,7.0,ana,support
+3,loss,volskaya industries,defend,3.0,mercy,support
+3,win,hollywood,attack,6.5,zen,support
+3,win,hollywood,defend,6.5,zen,support
+3,win,hollywood,attack,4.0,mercy,support
+3,win,hollywood,defend,2.0,mercy,support
+3,draw,hanamura,defend,8.0,zen,support
+3,draw,hanamura,attack,7.5,zen,support
+3,loss,nepal,cp,19.5,zen,support
+3,win,eichenwalde,attack,8.0,zen,support
+3,win,eichenwalde,defend,4.5,zen,support
+3,win,lijiang tower,cp,20.5,ana,support
+3,loss,route 66,defend,4.5,zen,support
+3,loss,route 66,attack,5.0,ana,support
+3,loss,volskaya industries,defend,2.0,ana,support
+3,loss,volskaya industries,attack,2.0,ana,support
+3,loss,volskaya industries,defend,4.0,ana,support
+3,loss,volskaya industries,attack,7.0,ana,support
+3,loss,volskaya industries,defend,1.0,ana,support
+3,loss,hollywood,attack,8.0,zen,support
+3,loss,hollywood,defend,7.5,zen,support
+3,loss,king's row,attack,4.0,ana,support
+3,loss,king's row,defend,2.5,ana,support
+3,loss,gibraltar,defend,4.5,ana,support
+3,loss,gibraltar,attack,5.0,ana,support
+3,loss,gibraltar,attack,4.5,ana,support
+3,loss,gibraltar,defend,4.0,ana,support
+3,loss,numbani,defend,6.0,zen,support
+3,loss,numbani,attack,8.0,ana,support
+3,loss,numbani,attack,2.5,ana,support
+3,loss,numbani,defend,3.0,ana,support
+3,loss,eichenwalde,attack,7.5,zen,support
+3,loss,eichenwalde,defend,7.0,symmetra,damage
+3,loss,king's row,defend,7.5,ana,support
+3,loss,king's row,attack,8.0,ana,support
+3,loss,gibraltar,attack,4.5,ana,support
+3,loss,gibraltar,defend,1.0,ana,support
+3,loss,numbani,attack,4.0,lucio,support
+3,loss,numbani,defend,3.0,symmetra,damage
+3,loss,hollywood,defend,6.0,zen,support
+3,loss,hollywood,attack,4.5,zen,support
+3,win,nepal,cp,17.0,ana,support
+3,win,nepal,cp,15.5,zen,support
+3,loss,dorado,attack,9.0,zen,support
+3,loss,dorado,defend,6.0,zen,support
+3,loss,illios,cp,24.0,zen,support
+3,loss,hanamura,defend,2.0,zen,support
+3,loss,hanamura,attack,4.5,zen,support
+3,draw,volskaya industries,defend,8.5,zen,support
+3,draw,volskaya industries,attack,8.5,zen,support
+3,loss,king's row,attack,4.0,ana,support
+3,loss,route 66,attack,8.0,zen,support
+3,loss,route 66,defend,8.5,ana,support
+3,loss,hanamura,attack,4.0,ana,support
+3,loss,hanamura,defend,2.0,mercy,support
+3,loss,lijiang tower,cp,22.5,zen,support
+3,loss,lijiang tower,cp,17.0,lucio,support
+3,win,king's row,defend,5.0,symmetra,damage
+3,win,king's row,attack,2.0,symmetra,damage
+3,draw,volskaya industries,defend,8.0,ana,support
+3,draw,volskaya industries,attack,8.0,ana,support
+3,loss,dorado,attack,8.5,symmetra,damage
+3,win,route 66,attack,9.5,mercy,support
+3,win,route 66,defend,6.0,mercy,support
+3,loss,illios,cp,23.0,zen,support
+3,loss,eichenwalde,defend,4.0,torbjorn,damage
+3,loss,eichenwalde,attack,8.5,zen,support
+3,loss,gibraltar,defend,7.5,symmetra,damage
+3,loss,gibraltar,attack,6.5,ana,support
+3,loss,gibraltar,defend,2.0,ana,support
+3,loss,gibraltar,attack,2.5,ana,support
+3,win,illios,cp,5.5,lucio,support
+3,draw,hollywood,defend,4.0,mercy,support
+3,draw,hollywood,attack,4.0,ana,support
+3,loss,nepal,cp,20.0,ana,support
+3,loss,eichenwalde,attack,6.5,ana,support
+3,loss,eichenwalde,defend,4.5,zen,support
+3,win,dorado,attack,8.0,mercy,support
+3,win,dorado,defend,4.5,mercy,support
+3,loss,gibraltar,defend,7.0,zen,support
+3,loss,gibraltar,attack,9.5,lucio,support
+3,loss,gibraltar,attack,1.0,mercy,support
+3,loss,gibraltar,defend,1.0,mercy,support
+3,loss,illios,cp,12.0,ana,support
+3,draw,temple of anubis,defend,5.0,symmetra,damage
+3,loss,numbani,attack,8.0,ana,support
+3,loss,numbani,defend,9.0,torbjorn,damage
+3,loss,lijiang tower,cp,12.5,lucio,support
+3,draw,hollywood,defend,4.0,torbjorn,damage
+3,win,eichenwalde,defend,4.0,symmetra,damage
+3,win,eichenwalde,attack,4.0,torbjorn,damage
+3,win,gibraltar,defend,4.0,torbjorn,damage
+3,win,gibraltar,attack,1.0,torbjorn,damage
+3,win,dorado,attack,5.5,torbjorn,damage
+3,win,dorado,defend,4.5,torbjorn,damage
+3,win,eichenwalde,defend,4.0,symmetra,damage
+3,win,eichenwalde,attack,1.5,torbjorn,damage
+3,win,route 66,defend,5.0,torbjorn,damage
+3,win,route 66,attack,4.5,torbjorn,damage
+3,loss,gibraltar,attack,4.5,torbjorn,damage
+3,loss,gibraltar,defend,2.5,torbjorn,damage
+3,draw,hollywood,attack,8.5,lucio,support
+3,draw,hollywood,defend,6.0,symmetra,damage
+3,draw,hollywood,defend,4.0,symmetra,damage
+3,win,volskaya industries,defend,4.0,symmetra,damage
+3,win,volskaya industries,attack,2.0,ana,support
+3,win,temple of anubis,defend,4.0,symmetra,damage
+3,win,temple of anubis,attack,4.0,ana,support
+3,loss,nepal,cp,15.5,torbjorn,damage
+3,loss,gibraltar,defend,5.0,ana,support
+3,loss,gibraltar,attack,6.0,zen,support
+3,loss,gibraltar,attack,3.0,zen,support
+3,loss,gibraltar,defend,2.5,zen,support
+3,loss,numbani,defend,8.0,torbjorn,damage
+3,loss,numbani,attack,8.0,torbjorn,damage
+3,loss,eichenwalde,attack,4.0,torbjorn,damage
+3,loss,eichenwalde,defend,1.5,torbjorn,damage
+3,loss,king's row,attack,7.0,zen,support
+3,loss,king's row,defend,7.5,zen,support
+3,loss,king's row,defend,3.5,zen,support
+3,loss,king's row,attack,3.0,zen,support
+3,loss,volskaya industries,defend,3.5,zen,support
+3,loss,volskaya industries,attack,8.5,zen,support
+3,loss,dorado,defend,8.5,symmetra,damage
+3,draw,temple of anubis,attack,8.0,symmetra,damage
+3,draw,temple of anubis,defend,8.0,symmetra,damage
+3,loss,king's row,defend,8.5,torbjorn,damage
+3,loss,king's row,attack,8.0,zen,support
+3,win,route 66,defend,5.5,torbjorn,damage
+3,win,route 66,attack,5.5,symmetra,damage
+3,win,temple of anubis,defend,4.0,symmetra,damage
+3,win,temple of anubis,attack,1.5,symmetra,damage
+3,loss,hollywood,defend,7.0,symmetra,damage
+3,loss,hollywood,attack,8.5,ana,support
+3,loss,dorado,attack,4.5,torbjorn,damage
+3,loss,dorado,defend,1.0,mercy,support
+3,win,lijiang tower,cp,13.0,symmetra,damage
+3,loss,oasis,cp,16.5,symmetra,damage
+3,win,hollywood,attack,8.5,zen,support
+3,win,hollywood,defend,4.0,torbjorn,damage
+3,win,route 66,attack,7.0,mercy,support
+3,win,route 66,defend,4.0,zen,support
+3,win,numbani,attack,8.5,zen,support
+3,win,numbani,defend,4.0,mercy,support
+3,draw,hanamura,attack,8.0,ana,support
+3,draw,hanamura,defend,8.0,ana,support
+3,win,gibraltar,attack,8.0,mercy,support
+3,win,gibraltar,defend,8.5,ana,support
+3,loss,king's row,attack,4.0,zen,support
+3,loss,king's row,defend,1.5,zen,support
+3,win,hollywood,attack,6.5,ana,support
+3,win,hollywood,defend,4.0,torbjorn,damage
+3,loss,illios,cp,26.0,lucio,support
+3,loss,hanamura,defend,5.0,symmetra,damage
+3,loss,hanamura,attack,5.5,ana,support
+3,loss,oasis,cp,17.5,ana,support
+3,win,illios,cp,11.0,lucio,support
+3,win,nepal,cp,11.0,zen,support
+3,draw,hanamura,defend,8.5,zen,support
+3,draw,hanamura,attack,8.5,zen,support
+3,win,lijiang tower,cp,25.5,zen,support
+3,win,oasis,cp,15.5,zen,support
+3,win,lijiang tower,cp,27.0,ana,support
+3,win,dorado,attack,8.0,ana,support
+3,win,dorado,defend,4.0,ana,support
+3,win,numbani,attack,7.5,zen,support
+3,win,numbani,defend,5.0,torbjorn,damage
+3,loss,volskaya industries,attack,8.5,ana,support
+3,loss,volskaya industries,defend,2.5,ana,support
+3,win,king's row,attack,4.0,zen,support
+3,win,king's row,defend,7.0,zen,support
+3,win,gibraltar,defend,4.5,torbjorn,damage
+3,win,gibraltar,attack,2.5,torbjorn,damage
+3,loss,eichenwalde,defend,5.0,symmetra,damage
+3,loss,eichenwalde,attack,7.5,ana,support
+3,loss,temple of anubis,attack,4.0,ana,support
+3,loss,temple of anubis,defend,4.0,ana,support
+3,win,oasis,cp,20.0,zen,support
+3,loss,nepal,cp,15.5,ana,support
+3,loss,oasis,cp,20.0,zen,support
+3,loss,eichenwalde,attack,4.0,mercy,support
+3,loss,eichenwalde,defend,1.0,mercy,support
+3,loss,oasis,cp,20.5,zen,support
+3,draw,numbani,attack,8.5,d'va,tank
+3,draw,numbani,defend,5.0,d'va,tank
+3,draw,numbani,defend,3.0,symmetra,damage
+3,loss,hollywood,defend,5.5,torbjorn,damage
+3,loss,hollywood,attack,5.5,zen,support
+3,win,nepal,cp,17.5,ana,support
+3,win,hollywood,defend,5.0,ana,support
+3,win,hollywood,attack,1.5,ana,support
+3,loss,numbani,attack,4.5,ana,support
+3,loss,numbani,defend,1.0,symmetra,damage
+3,win,illios,cp,12.0,zen,support
+3,win,illios,cp,11.0,zen,support
+3,loss,oasis,cp,23.0,ana,support
+3,loss,numbani,defend,7.5,torbjorn,damage
+3,loss,numbani,attack,9.0,zen,support
+3,win,lijiang tower,cp,14.5,ana,support
+3,loss,volskaya industries,defend,7.0,ana,support
+3,loss,volskaya industries,attack,8.5,ana,support
+3,win,dorado,attack,9.5,zen,support
+3,win,dorado,defend,7.0,zen,support
+3,loss,eichenwalde,attack,6.5,zen,support
+3,loss,eichenwalde,defend,6.0,lucio,support
+3,draw,hollywood,attack,4.5,ana,support
+3,draw,hollywood,defend,0.0,torbjorn,damage
+3,win,lijiang tower,cp,23.0,ana,support
+3,draw,eichenwalde,defend,4.0,torbjorn,damage
+3,draw,eichenwalde,attack,4.0,zen,support
+3,draw,eichenwalde,defend,4.0,lucio,support
+3,draw,eichenwalde,attack,4.0,torbjorn,damage
+3,win,illios,cp,23.0,lucio,support
+3,win,temple of anubis,defend,4.0,torbjorn,damage
+3,win,temple of anubis,attack,4.5,lucio,support
+3,win,nepal,cp,20.0,lucio,support
+3,loss,oasis,cp,19.5,lucio,support
+3,win,lijiang tower,cp,19.5,lucio,support
+3,loss,gibraltar,defend,8.5,ana,support
+3,loss,gibraltar,attack,5.5,lucio,support
+3,win,hanamura,defend,8.5,zen,support
+3,win,hanamura,attack,8.0,ana,support
+3,loss,gibraltar,defend,8.5,ana,support
+3,loss,gibraltar,attack,4.5,ana,support
+3,loss,lijiang tower,cp,14.5,lucio,support
+3,loss,numbani,defend,8.0,zen,support
+3,win,dorado,defend,4.0,symmetra,damage
+3,win,dorado,attack,2.0,symmetra,damage
+3,loss,route 66,defend,5.5,symmetra,damage
+3,loss,route 66,attack,4.0,zen,support
+3,win,temple of anubis,attack,9.0,ana,support
+3,win,temple of anubis,defend,4.0,symmetra,damage
+3,win,volskaya industries,defend,4.5,symmetra,damage
+3,win,volskaya industries,attack,2.0,symmetra,damage
+3,loss,route 66,attack,4.5,zen,support
+3,win,dorado,attack,9.5,zen,support
+3,win,dorado,defend,8.5,lucio,support
+3,loss,oasis,cp,15.0,lucio,support
+3,loss,illios,cp,22.5,lucio,support
+3,win,lijiang tower,cp,15.0,lucio,support
+3,win,gibraltar,attack,8.0,ana,support
+3,win,gibraltar,defend,4.5,zen,support
+3,win,oasis,cp,10.0,ana,support
+3,win,temple of anubis,defend,4.0,symmetra,damage
+3,win,temple of anubis,attack,1.05,ana,support
+3,win,numbani,defend,7.0,symmetra,damage
+3,win,numbani,attack,2.5,lucio,support
+3,win,hollywood,defend,9.0,symmetra,damage
+3,win,hollywood,attack,4.0,ana,support
+3,win,hollywood,attack,4.0,ana,support
+3,loss,gibraltar,defend,7.0,symmetra,damage
+3,loss,gibraltar,attack,4.5,ana,support
+3,win,king's row,defend,8.0,ana,support
+3,win,king's row,attack,4.0,ana,support
+3,win,volskaya industries,defend,2.0,ana,support
+3,win,volskaya industries,attack,3.5,ana,support
+3,win,volskaya industries,attack,5.5,ana,support
+3,win,volskaya industries,defend,6.5,ana,support
+3,win,hanamura,defend,8.0,symmetra,damage
+3,win,hanamura,attack,5.0,ana,support
+3,win,hanamura,defend,4.0,mercy,support
+3,win,hanamura,attack,4.0,lucio,support
+3,loss,dorado,defend,7.0,symmetra,damage
+3,loss,dorado,attack,5.0,zen,support
+3,loss,hollywood,defend,7.0,symmetra,damage
+3,loss,hollywood,attack,5.5,ana,support
+3,loss,eichenwalde,defend,7.5,symmetra,damage
+3,loss,eichenwalde,attack,4.0,ana,support
+3,win,temple of anubis,attack,8.0,ana,support
+3,win,temple of anubis,defend,4.5,symmetra,damage
+3,win,route 66,defend,8.5,symmetra,damage
+3,win,route 66,attack,6.5,zen,support
+3,win,lijiang tower,cp,21.0,mercy,support
+3,win,temple of anubis,defend,4.0,torbjorn,damage
+3,win,temple of anubis,attack,1.5,zen,support
+3,loss,king's row,defend,8.0,ana,support
+3,loss,king's row,attack,6.0,ana,support
+3,loss,eichenwalde,attack,4.0,lucio,support
+3,loss,eichenwalde,defend,4.0,torbjorn,damage
+3,win,hanamura,attack,3.5,lucio,support
+3,win,hanamura,defend,8.0,symmetra,damage
+3,win,illios,cp,23.0,lucio,support
+3,win,lijiang tower,cp,15.5,lucio,support
+3,loss,route 66,defend,7.0,symmetra,damage
+3,loss,route 66,attack,8.5,ana,support
+3,loss,gibraltar,attack,7.0,zen,support
+3,loss,gibraltar,defend,4.5,zen,support
+3,loss,gibraltar,attack,3.0,mercy,support
+3,loss,gibraltar,defend,4.5,mercy,support
+3,win,dorado,attack,9.0,mercy,support
+3,win,dorado,defend,7.0,torbjorn,damage
+3,win,nepal,cp,20.0,lucio,support
+3,win,hollywood,attack,7.0,ana,support
+3,win,hollywood,defend,4.0,torbjorn,damage
+3,loss,temple of anubis,attack,4.0,ana,support
+3,loss,temple of anubis,defend,2.0,symmetra,damage
+3,loss,temple of anubis,attack,5.0,ana,support
+3,loss,temple of anubis,defend,2.0,ana,support
+3,loss,illios,cp,13.0,ana,support
+3,win,hollywood,attack,7.0,ana,support
+3,win,hollywood,defend,4.5,mercy,support
+3,win,dorado,attack,8.0,ana,support
+3,win,dorado,defend,4.0,symmetra,damage
+3,win,oasis,cp,11.0,lucio,support
+3,win,hanamura,attack,8.0,ana,support
+3,win,hanamura,defend,4.0,symmetra,damage
+3,loss,volskaya industries,attack,8.5,ana,support
+3,loss,volskaya industries,defend,8.0,torbjorn,damage
+3,loss,nepal,cp,13.5,lucio,support
+3,win,dorado,defend,4.0,symmetra,damage
+3,win,dorado,attack,2.0,mercy,support
+3,win,route 66,defend,8.5,symmetra,damage
+3,win,route 66,attack,6.5,mercy,support
+3,loss,illios,cp,12.0,lucio,support
+3,loss,numbani,defend,7.5,torbjorn,damage
+3,loss,numbani,attack,4.0,ana,support
+3,win,gibraltar,attack,9.0,zen,support
+3,win,gibraltar,defend,8.0,torbjorn,damage
+3,win,king's row,attack,8.0,ana,support
+3,win,king's row,defend,8.5,ana,support
+3,draw,temple of anubis,attack,8.5,ana,support
+3,draw,temple of anubis,defend,8.0,torbjorn,damage
+3,draw,volskaya industries,defend,8.5,symmetra,damage
+3,draw,volskaya industries,attack,8.0,lucio,support
+3,loss,lijiang tower,cp,17.0,lucio,support
+3,loss,volskaya industries,defend,8.0,symmetra,damage
+3,draw,temple of anubis,attack,6.0,ana,support
+3,draw,temple of anubis,defend,2.5,symmetra,damage
+3,draw,temple of anubis,attack,3.5,zen,support
+3,draw,temple of anubis,defend,6.5,zen,support
+3,loss,lijiang tower,cp,13.0,rienhart,tank
+3,loss,gibraltar,attack,9.0,ana,support
+3,loss,gibraltar,defend,7.0,ana,support
+3,loss,lijiang tower,cp,27.0,lucio,support
+3,win,oasis,cp,13.5,symmetra,damage
+3,win,hollywood,defend,4.5,torbjorn,damage
+3,win,hollywood,attack,1.5,lucio,support
+3,loss,dorado,attack,9.0,ana,support
+3,loss,dorado,defend,6.0,symmetra,damage
+3,draw,hanamura,defend,4.0,symmetra,damage
+3,draw,hanamura,attack,4.0,zen,support
+3,win,king's row,attack,5.5,zen,support
+3,win,king's row,defend,8.5,zen,support
+3,loss,numbani,defend,8.0,mercy,support
+3,loss,numbani,attack,9.0,ana,support
+3,loss,dorado,attack,6.5,mercy,support
+3,loss,dorado,defend,7.0,symmetra,damage
+3,win,king's row,attack,7.5,ana,support
+3,win,king's row,defend,4.0,symmetra,damage
+3,loss,nepal,cp,12.0,lucio,support
+3,win,temple of anubis,defend,4.5,symmetra,damage
+3,win,temple of anubis,attack,4.0,ana,support
+3,win,volskaya industries,attack,5.5,zen,support
+3,win,volskaya industries,defend,2.0,symmetra,damage
+3,win,volskaya industries,attack,2.5,lucio,support
+3,loss,eichenwalde,defend,8.5,symmetra,damage
+3,loss,eichenwalde,attack,7.0,ana,support
+3,loss,volskaya industries,attack,4.0,zen,support
+3,loss,volskaya industries,defend,1.5,symmetra,damage
+3,loss,illios,cp,12.0,lucio,support
+3,loss,temple of anubis,defend,7.5,symmetra,damage
+3,loss,temple of anubis,attack,4.0,zen,support
+3,loss,lijiang tower,cp,22.0,lucio,support
+3,win,temple of anubis,attack,5.0,ana,support
+3,win,temple of anubis,defend,5.5,mercy,support
+3,win,temple of anubis,defend,3.0,mercy,support
+3,win,temple of anubis,attack,1.5,mercy,support
+3,loss,gibraltar,defend,7.0,symmetra,damage
+3,loss,gibraltar,attack,6.0,zen,support
+3,loss,gibraltar,defend,2.5,zen,support
+3,loss,gibraltar,attack,2.0,torbjorn,damage
+3,loss,nepal,cp,23.5,lucio,support
+3,draw,eichenwalde,attack,4.0,mercy,support
+3,draw,eichenwalde,defend,4.0,symmetra,damage
+3,win,numbani,attack,8.5,ana,support
+3,win,numbani,defend,8.0,symmetra,damage
+3,loss,temple of anubis,defend,5.0,symmetra,damage
+3,loss,temple of anubis,attack,8.0,zen,support
+3,draw,numbani,attack,4.5,zen,support
+3,draw,numbani,defend,4.0,symmetra,damage
+3,win,numbani,defend,4.0,symmetra,damage
+3,win,numbani,attack,2.5,zen,support
+3,loss,hollywood,defend,8.5,torbjorn,damage
+3,loss,hollywood,attack,5.0,zen,support
+3,loss,temple of anubis,attack,8.5,ana,support
+3,loss,temple of anubis,defend,8.0,symmetra,damage
+3,win,eichenwalde,attack,8.0,zen,support
+3,win,eichenwalde,defend,4.0,symmetra,damage
+3,loss,gibraltar,attack,4.5,zen,support
+3,loss,gibraltar,defend,3.0,zen,support
+3,draw,volskaya industries,defend,8.0,symmetra,damage
+3,draw,volskaya industries,attack,8.0,symmetra,damage
+3,win,king's row,attack,3.0,zen,support
+3,win,king's row,defend,8.0,zen,support
+3,win,king's row,attack,2.5,ana,support
+3,win,numbani,attack,8.0,ana,support
+3,win,numbani,defend,4.5,symmetra,damage
+3,win,numbani,attack,4.0,ana,support
+3,win,numbani,defend,5.5,ana,support
+3,win,eichenwalde,attack,5.5,ana,support
+3,win,eichenwalde,defend,4.0,symmetra,damage
+3,win,route 66,attack,8.5,ana,support
+3,win,route 66,defend,8.0,symmetra,damage
+3,loss,king's row,attack,4.0,mercy,support
+3,loss,king's row,defend,2.5,symmetra,damage
+3,loss,numbani,defend,4.0,symmetra,damage
+3,loss,numbani,attack,8.0,ana,support
+3,loss,route 66,defend,8.0,torbjorn,damage
+3,loss,route 66,attack,8.5,ana,support
+3,loss,oasis,cp,15.0,zen,support
+3,win,dorado,attack,4.0,mercy,support
+3,win,dorado,defend,4.0,mercy,support
+3,loss,oasis,cp,11.0,zen,support
+3,loss,illios,cp,15.0,lucio,support
+3,win,hollywood,attack,9.0,mercy,support
+3,win,hollywood,defend,9.0,mercy,support
+3,loss,nepal,cp,8.5,lucio,support
+3,win,hanamura,attack,4.5,zen,support
+3,win,hanamura,defend,4.0,zen,support
+3,win,illios,cp,24.5,ana,support
+3,loss,nepal,cp,13.0,ana,support
+3,loss,dorado,attack,8.5,zen,support
+3,loss,dorado,defend,4.0,mercy,support
+3,draw,eichenwalde,attack,4.0,ana,support
+3,draw,eichenwalde,defend,4.0,symmetra,damage
+3,win,numbani,attack,8.0,ana,support
+3,win,numbani,defend,4.0,symmetra,damage
+3,win,lijiang tower,cp,25.5,zen,support
+3,win,volskaya industries,defend,8.5,symmetra,damage
+3,win,volskaya industries,attack,3.5,zen,support
+3,win,king's row,defend,7.0,symmetra,damage
+3,win,king's row,attack,3.0,zen,support
+3,win,illios,cp,13.0,zen,support
+3,win,hollywood,defend,7.5,symmetra,damage
+3,win,hollywood,attack,4.5,mercy,support
+3,draw,hanamura,defend,4.0,symmetra,damage
+3,draw,hanamura,attack,4.0,mercy,support
+3,win,temple of anubis,defend,8.0,symmetra,damage
+3,win,temple of anubis,attack,4.0,mercy,support
+3,loss,route 66,defend,6.0,zen,support
+3,loss,route 66,attack,9.0,zen,support
+3,win,oasis,cp,23.5,zen,support
+3,win,hollywood,attack,6.0,zen,support
+3,win,hollywood,defend,4.0,zen,support
+3,win,temple of anubis,attack,6.0,zen,support
+3,win,temple of anubis,defend,8.0,zen,support
+3,loss,gibraltar,attack,7.0,zen,support
+3,loss,gibraltar,defend,5.5,zen,support
+3,win,numbani,defend,4.0,symmetra,damage
+3,win,numbani,attack,2.0,zen,support
+3,draw,hanamura,defend,4.0,ana,support
+3,draw,hanamura,attack,4.0,zen,support
+3,win,eichenwalde,defend,4.0,ana,support
+3,win,eichenwalde,attack,4.0,zen,support
+3,win,numbani,defend,6.0,symmetra,damage
+3,win,numbani,attack,5.5,zen,support
+3,win,volskaya industries,attack,5.0,zen,support
+3,win,volskaya industries,defend,4.0,symmetra,damage
+3,loss,numbani,attack,8.0,zen,support
+3,loss,numbani,defend,6.0,symmetra,damage
+3,loss,numbani,attack,1.0,zen,support
+3,loss,numbani,defend,1.0,symmetra,damage
+3,win,numbani,attack,4.5,zen,support
+3,win,numbani,defend,4.0,symmetra,damage
+3,win,king's row,attack,3.0,zen,support
+3,win,king's row,defend,8.0,symmetra,damage
+3,draw,temple of anubis,defend,4.0,symmetra,damage
+3,draw,temple of anubis,attack,7.0,zen,support
+3,draw,temple of anubis,attack,2.5,zen,support
+3,draw,temple of anubis,defend,4.0,mercy,support
+3,win,eichenwalde,attack,6.0,ana,support
+3,win,eichenwalde,defend,4.0,mercy,support
+3,draw,hollywood,attack,4.0,zen,support
+3,draw,hollywood,defend,4.0,symmetra,damage
+3,win,dorado,attack,7.0,zen,support
+3,win,dorado,defend,4.0,symmetra,damage
+3,loss,gibraltar,defend,9.0,zen,support
+3,loss,gibraltar,attack,4.0,zen,support
+3,win,oasis,cp,21.5,zen,support
+3,loss,lijiang tower,cp,16.5,zen,support
+3,win,illios,cp,17.5,zen,support
+3,loss,lijiang tower,cp,18.0,lucio,support
+3,draw,eichenwalde,attack,4.0,zen,support
+3,draw,eichenwalde,defend,4.0,mercy,support
+3,win,numbani,attack,8.0,zen,support
+3,win,numbani,defend,4.0,symmetra,damage
+3,loss,temple of anubis,attack,8.0,zen,support
+3,loss,temple of anubis,defend,3.0,symmetra,damage
+3,win,gibraltar,defend,4.0,torbjorn,damage
+3,win,gibraltar,attack,1.5,zen,support
+3,loss,temple of anubis,attack,7.5,zen,support
+3,loss,temple of anubis,defend,2.5,symmetra,damage
+3,loss,temple of anubis,defend,2.0,symmetra,damage
+3,loss,eichenwalde,attack,8.5,symmetra,damage
+3,loss,eichenwalde,defend,8.0,zen,support
+3,loss,hollywood,defend,4.0,symmetra,damage
+3,loss,hollywood,attack,6.5,ana,support
+3,loss,hollywood,attack,4.0,ana,support
+3,loss,hollywood,defend,1.0,zen,support
+3,win,king's row,attack,6.5,zen,support
+3,win,king's row,defend,7.5,zen,support
+3,loss,gibraltar,attack,9.0,ana,support
+3,loss,gibraltar,defend,7.5,ana,support
+3,win,volskaya industries,attack,2.0,zen,support
+3,win,volskaya industries,defend,8.5,zen,support
+3,draw,hanamura,attack,4.0,zen,support
+3,draw,hanamura,defend,4.0,symmetra,damage
+3,win,dorado,attack,7.5,zen,support
+3,win,dorado,defend,4.0,symmetra,damage
+3,win,hollywood,defend,7.0,symmetra,damage
+3,win,hollywood,attack,4.5,lucio,support
+3,win,king's row,attack,4.5,zen,support
+3,win,king's row,defend,8.5,zen,support
+3,win,numbani,attack,9.0,zen,support
+3,win,numbani,defend,4.0,symmetra,damage
+3,win,nepal,cp,21.5,zen,support
+3,win,hollywood,defend,8.0,symmetra,damage
+3,win,hollywood,attack,5.5,zen,support
+3,loss,dorado,attack,8.0,zen,support
+3,loss,dorado,defend,7.0,mercy,support
+3,loss,hanamura,attack,4.5,zen,support
+3,loss,hanamura,defend,2.0,symmetra,damage
+3,win,numbani,defend,6.0,symmetra,damage
+3,win,numbani,attack,4.5,zen,support
+3,win,numbani,defend,2.5,zen,support
+3,win,numbani,attack,1.0,zen,support
+3,win,gibraltar,defend,8.0,torbjorn,damage
+3,win,gibraltar,attack,5.5,zen,support
+3,loss,route 66,defend,7.5,zen,support
+3,loss,oasis,cp,23.5,zen,support
+3,win,illios,cp,25.0,zen,support
+3,draw,eichenwalde,defend,4.0,symmetra,damage
+3,draw,eichenwalde,attack,4.0,ana,support
+3,win,illios,cp,20.0,zen,support
+3,draw,king's row,attack,5.0,zen,support
+3,draw,king's row,defend,6.5,mercy,support
+3,draw,king's row,defend,1.5,mercy,support
+3,draw,king's row,attack,3.5,ana,support
+3,draw,numbani,defend,4.5,symmetra,damage
+3,draw,numbani,attack,4.5,ana,support
+3,win,hollywood,attack,8.5,zen,support
+3,win,hollywood,defend,8.0,ana,support
+3,loss,dorado,defend,8.0,symmetra,damage
+3,loss,dorado,attack,5.0,zen,support
+3,win,hanamura,attack,6.0,mercy,support
+3,win,hanamura,defend,9.0,mercy,support
+3,win,gibraltar,attack,7.0,zen,support
+3,win,gibraltar,defend,4.5,torbjorn,damage
+3,loss,nepal,cp,12.0,zen,support
+3,loss,route 66,attack,5.5,zen,support
+3,loss,route 66,defend,7.0,zen,support
+3,loss,route 66,defend,4.0,mercy,support
+3,loss,route 66,attack,3.0,mercy,support
+3,loss,numbani,attack,8.5,zen,support
+3,loss,numbani,defend,7.5,mercy,support
+3,win,lijiang tower,cp,20.0,zen,support
+3,loss,illios,cp,11.0,zen,support
+3,win,hanamura,defend,8.0,symmetra,damage
+3,win,hanamura,attack,4.5,ana,support
+3,loss,nepal,cp,21.0,lucio,support
+3,win,temple of anubis,defend,8.5,zen,support
+3,win,temple of anubis,attack,5.0,zen,support
+3,win,volskaya industries,defend,8.0,symmetra,damage
+3,win,volskaya industries,attack,6.0,zen,support
+3,loss,route 66,defend,3.0,mercy,support
+3,loss,route 66,attack,6.5,mercy,support
+3,loss,route 66,attack,3.5,mercy,support
+3,loss,route 66,defend,5.0,mercy,support
+3,win,temple of anubis,defend,8.0,symmetra,damage
+3,win,temple of anubis,attack,6.0,zen,support
+3,loss,hanamura,defend,2.5,zen,support
+3,loss,hanamura,attack,4.5,zen,support
+3,loss,illios,cp,11.0,zen,support
+3,loss,lijiang tower,cp,15.0,zen,support
+3,loss,nepal,cp,12.0,zen,support
+3,win,numbani,attack,6.5,zen,support
+3,win,numbani,defend,4.5,symmetra,damage
+3,loss,illios,cp,17.0,mercy,support
+3,win,hollywood,defend,7.0,zen,support
+3,win,hollywood,attack,4.0,zen,support
+3,loss,nepal,cp,18.5,winston,tank
+3,loss,temple of anubis,attack,4.5,zen,support
+3,loss,temple of anubis,defend,1.5,symmetra,damage
+3,loss,route 66,defend,4.0,ana,support
+3,loss,route 66,attack,8.0,zen,support
+3,loss,route 66,attack,1.5,zen,support
+3,loss,route 66,defend,1.0,symmetra,damage
+4,win,route 66,defend,6.0,zen,support
+4,win,route 66,attack,8.0,zen,support
+4,win,route 66,attack,3.5,zen,support
+4,win,route 66,defend,1.5,zen,support
+4,loss,gibraltar,defend,6.5,zen,support
+4,loss,gibraltar,attack,6.5,zen,support
+4,loss,king's row,defend,6.0,mercy,support
+4,loss,king's row,attack,8.5,zen,support
+4,win,numbani,attack,4.5,zen,support
+4,win,numbani,defend,4.0,symmetra,damage
+4,win,volskaya industries,defend,7.0,mercy,support
+4,win,volskaya industries,attack,6.5,ana,support
+4,win,volskaya industries,defend,2.0,mercy,support
+4,win,volskaya industries,attack,2.0,ana,support
+4,loss,route 66,defend,7.0,mercy,support
+4,loss,route 66,attack,4.5,ana,support
+4,win,illios,cp,12.0,lucio,support
+4,draw,numbani,attack,8.0,zen,support
+4,draw,numbani,defend,9.0,symmetra,damage
+4,draw,numbani,defend,2.0,symmetra,damage
+4,draw,numbani,attack,2.0,zen,support
+4,draw,hanamura,defend,8.0,ana,support
+4,draw,hanamura,attack,8.5,ana,support
+4,loss,king's row,defend,4.0,zen,support
+4,loss,king's row,attack,9.0,zen,support
+4,loss,king's row,defend,3.0,zen,support
+4,loss,illios,cp,25.0,lucio,support
+4,win,hollywood,attack,6.5,zen,support
+4,win,hollywood,defend,6.0,zen,support
+4,win,route 66,attack,11.0,zen,support
+4,win,route 66,defend,8.0,zen,support
+4,win,king's row,defend,4.5,mercy,support
+4,win,king's row,attack,2.5,ana,support
+4,loss,nepal,cp,20.5,zen,support
+4,win,numbani,attack,4.5,zen,support
+4,win,numbani,defend,4.5,symmetra,damage
+4,loss,temple of anubis,defend,2.0,symmetra,damage
+4,loss,temple of anubis,attack,6.0,zen,support
+4,loss,temple of anubis,attack,2.5,ana,support
+4,loss,temple of anubis,defend,4.0,zen,support
+4,loss,hollywood,attack,4.0,zen,support
+4,loss,numbani,attack,4.0,zen,support
+4,win,eichenwalde,attack,5.0,ana,support
+4,win,eichenwalde,defend,4.0,mercy,support
+4,win,hanamura,defend,8.0,zen,support
+4,win,hanamura,attack,4.5,zen,support
+4,win,nepal,cp,23.5,zen,support
+4,win,illios,cp,10.5,lucio,support
+4,win,oasis,cp,24.5,zen,support
+4,draw,volskaya industries,defend,8.0,ana,support
+4,draw,volskaya industries,attack,8.5,ana,support
+4,win,route 66,defend,8.5,zen,support
+4,win,route 66,attack,2.5,zen,support
+4,loss,eichenwalde,defend,8.5,mercy,support
+4,loss,eichenwalde,attack,8.0,zen,support
+4,win,nepal,cp,20.0,lucio,support
+4,win,oasis,cp,21.0,zen,support
+4,win,gibraltar,defend,9.0,zen,support
+4,win,gibraltar,attack,8.0,zen,support
+4,loss,hollywood,defend,7.0,zen,support
+4,loss,hollywood,attack,7.5,zen,support
+4,loss,king's row,defend,8.5,zen,support
+4,loss,king's row,attack,4.0,ana,support
+4,win,illios,cp,14.5,lucio,support
+4,loss,route 66,attack,8.0,zen,support
+4,loss,route 66,defend,8.5,zen,support
+4,loss,route 66,attack,2.0,mercy,support
+4,draw,volskaya industries,defend,1.5,mercy,support
+4,draw,volskaya industries,attack,2.5,zen,support
+4,draw,volskaya industries,attack,5.0,zen,support
+4,draw,volskaya industries,defend,4.0,zen,support
+4,draw,volskaya industries,attack,2.0,ana,support
+4,draw,volskaya industries,defend,2.0,zen,support
+4,loss,temple of anubis,defend,2.5,symmetra,damage
+4,loss,temple of anubis,attack,4.0,lucio,support
+4,loss,eichenwalde,defend,8.0,mercy,support
+4,loss,eichenwalde,attack,4.5,ana,support
+4,win,temple of anubis,defend,7.0,zen,support
+4,win,temple of anubis,attack,4.0,zen,support
+4,win,temple of anubis,defend,2.5,zen,support
+4,win,temple of anubis,attack,5.5,zen,support
+4,loss,dorado,defend,5.0,zen,support
+4,loss,dorado,attack,8.5,zen,support
+4,loss,dorado,defend,1.0,mercy,support
+4,loss,gibraltar,attack,7.5,zen,support
+4,loss,gibraltar,defend,4.0,zen,support
+4,loss,eichenwalde,defend,4.0,zen,support
+4,loss,eichenwalde,attack,4.0,lucio,support
+4,loss,nepal,cp,10.5,zen,support
+4,loss,numbani,defend,4.5,zen,support
+4,loss,numbani,attack,8.0,zen,support
+4,loss,temple of anubis,attack,8.0,rienhart,tank
+4,loss,nepal,cp,21.5,lucio,support
+4,loss,gibraltar,attack,4.5,zen,support
+4,win,nepal,cp,12.0,lucio,support
+4,draw,numbani,defend,4.0,zen,support
+4,draw,numbani,attack,7.0,zen,support
+4,draw,numbani,attack,1.5,zen,support
+4,draw,numbani,defend,5.0,ana,support
+4,draw,temple of anubis,defend,8.0,mercy,support
+4,draw,temple of anubis,attack,8.0,mercy,support
+4,win,numbani,attack,8.5,zen,support
+4,win,numbani,defend,8.0,zen,support
+4,win,king's row,attack,8.5,zen,support
+4,win,king's row,defend,6.0,zen,support
+4,loss,route 66,attack,4.5,zen,support
+4,loss,route 66,defend,3.5,mercy,support
+4,loss,volskaya industries,defend,4.0,zen,support
+4,loss,volskaya industries,attack,8.0,zen,support
+4,draw,hanamura,defend,6.0,zen,support
+4,draw,hanamura,attack,8.0,zen,support
+4,draw,hanamura,defend,2.5,zen,support
+4,loss,king's row,attack,4.5,zen,support
+4,draw,hanamura,attack,4.0,zen,support
+4,draw,hanamura,defend,4.5,ana,support
+4,win,nepal,cp,25.0,ana,support
+4,win,king's row,defend,4.5,zen,support
+4,win,king's row,attack,1.5,zen,support
+4,win,lijiang tower,cp,19.5,lucio,support
+4,loss,illios,cp,20.0,lucio,support
+4,win,volskaya industries,attack,5.0,zen,support
+4,win,volskaya industries,defend,8.0,zen,support
+4,loss,route 66,defend,10.0,zen,support
+4,loss,route 66,attack,7.0,zen,support
+4,loss,gibraltar,defend,6.0,zen,support
+4,loss,gibraltar,attack,9.0,ana,support
+4,loss,gibraltar,attack,2.0,ana,support
+4,loss,gibraltar,defend,2.0,ana,support
+4,loss,lijiang tower,cp,12.0,ana,support
+4,win,gibraltar,defend,4.0,ana,support
+4,win,gibraltar,attack,1.0,ana,support
+4,loss,eichenwalde,defend,7.0,ana,support
+4,loss,eichenwalde,attack,9.0,zen,support
+4,loss,hanamura,defend,2.0,torbjorn,damage
+4,loss,hanamura,attack,3.0,zen,support
+4,loss,hanamura,attack,6.0,zen,support
+4,loss,hanamura,defend,8.0,mercy,support
+4,win,volskaya industries,attack,8.0,zen,support
+4,win,volskaya industries,defend,8.0,zen,support
+4,draw,eichenwalde,attack,4.0,lucio,support
+4,draw,eichenwalde,defend,5.0,ana,support
+4,win,volskaya industries,defend,4.0,mercy,support
+4,win,volskaya industries,attack,1.5,zen,support
+4,win,hanamura,defend,4.0,zen,support
+4,win,hanamura,attack,4.0,zen,support
+4,win,nepal,cp,15.5,lucio,support
+4,loss,volskaya industries,attack,4.5,ana,support
+4,loss,volskaya industries,defend,1.0,mercy,support
+4,win,gibraltar,defend,6.0,ana,support
+4,win,gibraltar,attack,3.5,ana,support
+4,loss,gibraltar,defend,9.0,ana,support
+4,loss,gibraltar,attack,8.0,mercy,support
+4,loss,volskaya industries,attack,8.0,zen,support
+4,loss,volskaya industries,defend,3.0,ana,support
+4,loss,eichenwalde,attack,9.0,zen,support
+4,loss,eichenwalde,defend,7.0,symmetra,damage
+4,win,gibraltar,defend,4.0,ana,support
+4,draw,hanamura,defend,5.5,zen,support
+4,draw,hanamura,attack,4.5,zen,support
+4,draw,hanamura,defend,3.5,zen,support
+4,draw,hanamura,attack,4.0,lucio,support
+4,loss,illios,cp,15.0,lucio,support
+4,loss,nepal,cp,25.0,lucio,support
+4,win,oasis,cp,12.0,lucio,support
+4,draw,volskaya industries,defend,8.5,mercy,support
+4,draw,volskaya industries,attack,8.5,ana,support
+4,draw,temple of anubis,defend,8.0,mercy,support
+4,draw,temple of anubis,attack,8.0,ana,support
+4,win,illios,cp,17.0,lucio,support
+4,win,king's row,defend,4.0,ana,support
+4,win,king's row,attack,2.0,ana,support
+4,loss,dorado,attack,5.0,ana,support
+4,loss,hollywood,attack,8.0,ana,support
+4,loss,hollywood,defend,8.0,ana,support
+4,loss,route 66,attack,8.0,zen,support
+4,loss,route 66,defend,8.0,mercy,support
+4,loss,route 66,defend,4.0,mercy,support
+4,loss,route 66,attack,2.0,mercy,support
+4,win,hanamura,attack,3.5,zen,support
+4,win,hanamura,defend,8.0,zen,support
+4,win,hanamura,attack,3.5,zen,support
+4,win,eichenwalde,defend,8.5,ana,support
+4,win,eichenwalde,attack,7.5,ana,support
+4,win,route 66,defend,7.0,ana,support
+4,win,route 66,attack,7.0,lucio,support
+4,win,route 66,attack,1.0,ana,support
+4,loss,gibraltar,defend,10.0,ana,support
+4,loss,gibraltar,attack,8.0,ana,support
+4,win,eichenwalde,attack,8.0,ana,support
+4,loss,temple of anubis,defend,4.0,zen,support
+4,loss,temple of anubis,attack,8.0,ana,support
+4,loss,temple of anubis,defend,1.0,ana,support
+4,win,lijiang tower,cp,14.5,lucio,support
+4,win,gibraltar,attack,4.5,zen,support
+4,win,gibraltar,defend,8.0,zen,support
+4,win,volskaya industries,defend,9.0,zen,support
+4,win,volskaya industries,attack,4.5,symmetra,damage
+4,win,route 66,attack,6.0,zen,support
+4,win,route 66,defend,4.0,zen,support
+4,win,dorado,defend,5.0,zen,support
+4,win,dorado,attack,2.0,zen,support
+4,loss,numbani,defend,8.0,zen,support
+4,loss,numbani,attack,4.5,lucio,support
+4,loss,oasis,cp,22.0,lucio,support
+4,win,nepal,cp,15.5,lucio,support
+4,draw,king's row,attack,4.5,zen,support
+4,draw,king's row,defend,4.5,mercy,support
+4,loss,king's row,attack,7.0,zen,support
+4,loss,king's row,defend,9.0,ana,support
+4,loss,king's row,attack,2.5,lucio,support
+4,loss,volskaya industries,defend,4.0,ana,support
+4,loss,volskaya industries,attack,8.0,ana,support
+4,win,temple of anubis,attack,3.0,mercy,support
+4,win,temple of anubis,defend,4.5,mercy,support
+4,win,lijiang tower,cp,25.0,lucio,support
+4,win,gibraltar,defend,4.0,mercy,support
+4,win,gibraltar,attack,2.0,zen,support
+4,loss,illios,cp,17.0,lucio,support
+4,loss,oasis,cp,13.5,zen,support
+4,loss,route 66,defend,4.0,mercy,support
+4,loss,route 66,attack,4.0,ana,support
+4,win,temple of anubis,defend,6.5,mercy,support
+4,win,temple of anubis,attack,2.0,mercy,support
+4,win,temple of anubis,defend,4.15,mercy,support
+4,win,temple of anubis,attack,4.5,lucio,support
+4,win,hanamura,defend,4.0,zen,support
+4,win,hanamura,attack,1.0,zen,support
+4,loss,eichenwalde,defend,6.5,zen,support
+4,loss,eichenwalde,attack,4.0,ana,support
+4,draw,king's row,defend,4.0,zen,support
+4,draw,king's row,attack,4.0,lucio,support
+4,win,volskaya industries,attack,6.0,ana,support
+4,win,volskaya industries,defend,4.0,ana,support
+4,win,volskaya industries,attack,3.0,ana,support
+4,win,volskaya industries,defend,4.0,ana,support
+4,draw,temple of anubis,attack,8.0,ana,support
+4,draw,temple of anubis,defend,8.0,ana,support
+4,win,king's row,defend,8.0,zen,support
+4,win,king's row,attack,5.5,zen,support
+4,loss,gibraltar,attack,4.0,zen,support
+4,loss,gibraltar,defend,2.5,symmetra,damage
+4,loss,volskaya industries,defend,8.0,mercy,support
+4,loss,volskaya industries,attack,8.0,lucio,support
+4,loss,dorado,defend,7.5,ana,support
+4,loss,dorado,attack,7.5,ana,support
+4,loss,eichenwalde,defend,7.0,mercy,support
+4,loss,eichenwalde,attack,4.0,ana,support
+4,draw,temple of anubis,attack,4.5,zen,support
+4,draw,temple of anubis,defend,4.0,zen,support
+4,win,dorado,attack,8.0,ana,support
+4,win,dorado,defend,8.0,mercy,support
+4,win,gibraltar,attack,8.0,zen,support
+4,win,gibraltar,defend,4.0,zen,support
+4,win,route 66,attack,8.0,zen,support
+4,win,route 66,defend,8.0,zen,support
+4,draw,hollywood,attack,10.0,zen,support
+4,draw,hollywood,defend,7.5,zen,support
+4,draw,hollywood,defend,1.5,zen,support
+4,draw,eichenwalde,attack,4.5,zen,support
+4,draw,eichenwalde,defend,4.0,zen,support
+4,draw,hanamura,attack,8.0,zen,support
+4,draw,hanamura,defend,8.0,mercy,support
+4,loss,illios,cp,16.0,ana,support
+4,win,numbani,defend,8.0,ana,support
+4,win,numbani,attack,9.0,ana,support
+4,win,dorado,attack,7.5,zen,support
+4,win,dorado,defend,8.0,zen,support
+4,win,volskaya industries,attack,3.0,zen,support
+4,win,volskaya industries,defend,6.5,zen,support
+4,win,volskaya industries,defend,2.0,zen,support
+4,win,volskaya industries,attack,1.5,zen,support
+4,loss,hollywood,defend,6.5,zen,support
+4,loss,hollywood,attack,4.0,ana,support
+4,loss,hollywood,defend,5.0,mercy,support
+4,loss,hollywood,attack,4.5,mercy,support
+4,win,hanamura,defend,4.5,mercy,support
+4,win,hanamura,attack,3.0,zen,support
+4,win,king's row,defend,8.5,zen,support
+4,win,king's row,attack,4.0,zen,support
+4,win,king's row,attack,2.15,zen,support
+4,win,numbani,defend,4.5,zen,support
+4,win,numbani,attack,1.0,ana,support
+4,win,lijiang tower,cp,16.5,lucio,support
+4,win,hollywood,attack,7.5,zen,support
+4,win,hollywood,defend,7.5,zen,support
+4,win,oasis,cp,21.0,lucio,support
+4,loss,eichenwalde,attack,7.0,zen,support
+4,loss,eichenwalde,defend,3.0,zen,support
+4,loss,route 66,attack,8.5,lucio,support
+4,loss,route 66,defend,5.5,zen,support
+4,loss,king's row,defend,7.5,zen,support
+4,loss,king's row,attack,8.0,mercy,support
+4,loss,eichenwalde,attack,9.58,zen,support
+4,loss,eichenwalde,defend,5.0,zen,support
+4,loss,oasis,cp,12.5,ana,support
+4,loss,numbani,defend,5.5,zen,support
+4,loss,numbani,attack,4.5,zen,support
+4,loss,hanamura,defend,8.0,zen,support
+4,loss,hanamura,attack,4.0,lucio,support
+4,loss,oasis,cp,14.0,zen,support
+4,win,hanamura,attack,1.5,zen,support
+4,win,hanamura,defend,8.0,mercy,support
+4,loss,temple of anubis,attack,4.0,zen,support
+4,loss,temple of anubis,defend,3.0,zen,support
+4,win,volskaya industries,defend,4.0,zen,support
+4,win,volskaya industries,attack,1.0,zen,support
+4,win,dorado,attack,8.0,zen,support
+4,win,dorado,defend,8.0,zen,support
+4,win,dorado,defend,3.0,ana,support
+4,win,volskaya industries,attack,2.0,zen,support
+4,win,volskaya industries,defend,8.0,zen,support
+4,loss,lijiang tower,cp,19.0,lucio,support
+4,win,oasis,cp,17.5,lucio,support
+4,loss,hanamura,attack,9.0,zen,support
+4,loss,hanamura,defend,5.5,ana,support
+4,win,dorado,attack,7.0,mercy,support
+4,win,dorado,defend,4.0,mercy,support
+4,win,volskaya industries,defend,7.0,zen,support
+4,win,volskaya industries,attack,2.5,mercy,support
+4,win,volskaya industries,defend,2.0,mercy,support
+4,win,volskaya industries,attack,3.5,mercy,support
+4,loss,lijiang tower,cp,15.0,lucio,support
+4,loss,illios,cp,23.5,lucio,support
+4,draw,hollywood,attack,5.5,zen,support
+4,draw,hollywood,defend,8.0,zen,support
+4,draw,hollywood,attack,2.5,zen,support
+4,draw,hanamura,defend,8.0,mercy,support
+4,draw,hanamura,attack,8.0,ana,support
+4,loss,volskaya industries,defend,8.0,zen,support
+4,win,dorado,defend,7.0,ana,support
+4,win,dorado,attack,6.0,zen,support
+4,win,dorado,defend,2.0,zen,support
+4,win,dorado,attack,1.0,zen,support
+4,loss,oasis,cp,28.5,mercy,support
+4,loss,route 66,attack,5.0,mercy,support
+4,loss,route 66,defend,1.5,mercy,support
+4,draw,temple of anubis,defend,4.0,mercy,support
+4,draw,temple of anubis,attack,4.0,zen,support
+4,loss,nepal,cp,25.0,zen,support
+4,win,king's row,attack,3.0,zen,support
+4,win,king's row,defend,4.0,mercy,support
+4,win,illios,cp,24.0,lucio,support
+4,win,numbani,defend,4.0,mercy,support
+4,win,numbani,attack,1.0,mercy,support
+4,win,route 66,attack,9.0,ana,support
+4,win,route 66,defend,4.5,ana,support
+4,loss,volskaya industries,attack,4.5,zen,support
+4,win,lijiang tower,cp,13.5,lucio,support
+4,draw,eichenwalde,attack,10.0,zen,support
+4,draw,eichenwalde,defend,7.5,mercy,support
+4,draw,eichenwalde,defend,1.5,mercy,support
+4,win,gibraltar,attack,5.0,ana,support
+4,win,gibraltar,defend,8.5,ana,support
+4,win,gibraltar,defend,2.0,ana,support
+4,win,gibraltar,attack,1.5,ana,support
+4,win,volskaya industries,attack,8.5,zen,support
+4,win,volskaya industries,defend,4.5,ana,support
+4,loss,gibraltar,defend,8.5,zen,support
+4,loss,gibraltar,attack,8.0,ana,support
+4,win,king's row,defend,8.0,mercy,support
+4,win,king's row,attack,6.0,zen,support
+4,loss,route 66,defend,5.5,mercy,support
+4,loss,route 66,attack,4.5,zen,support
+4,draw,temple of anubis,defend,4.5,mercy,support
+4,draw,temple of anubis,attack,4.0,zen,support
+4,draw,temple of anubis,defend,4.0,zen,support
+4,draw,temple of anubis,attack,3.5,lucio,support
+4,draw,temple of anubis,attack,1.0,lucio,support
+4,loss,nepal,cp,20.5,lucio,support
+4,loss,illios,cp,20.5,lucio,support
+4,win,route 66,attack,6.5,zen,support
+4,win,route 66,defend,8.0,ana,support
+4,win,route 66,defend,1.5,ana,support
+4,win,route 66,attack,1.0,ana,support
+4,draw,temple of anubis,attack,8.0,ana,support
+4,draw,temple of anubis,defend,8.0,mercy,support
+4,win,eichenwalde,attack,7.0,zen,support
+4,win,eichenwalde,defend,4.5,zen,support
+4,win,gibraltar,attack,7.5,zen,support
+4,win,gibraltar,defend,4.0,mercy,support
+4,win,hollywood,attack,8.5,zen,support
+4,win,hollywood,defend,5.0,mercy,support
+4,win,numbani,attack,5.0,zen,support
+4,win,numbani,defend,7.0,mercy,support
+4,win,numbani,defend,1.5,mercy,support
+4,win,numbani,attack,2.0,mercy,support
+4,draw,hollywood,defend,10.0,mercy,support
+4,draw,hollywood,defend,9.0,zen,support
+4,draw,hollywood,defend,1.0,zen,support
+4,draw,hollywood,attack,2.0,lucio,support
+4,loss,numbani,defend,6.0,zen,support
+4,loss,numbani,attack,6.5,zen,support
+4,draw,eichenwalde,defend,4.0,mercy,support
+4,draw,eichenwalde,attack,5.0,zen,support
+4,loss,volskaya industries,attack,4.0,lucio,support
+4,loss,volskaya industries,defend,2.0,ana,support
+4,win,lijiang tower,cp,24.5,mercy,support
+4,loss,nepal,cp,13.0,lucio,support
+4,win,volskaya industries,defend,4.0,mercy,support
+4,win,volskaya industries,attack,2.0,zen,support
+4,draw,hanamura,defend,8.0,zen,support
+4,draw,hanamura,attack,8.0,ana,support
+4,win,numbani,defend,7.0,ana,support
+4,win,numbani,attack,5.0,ana,support
+4,win,numbani,defend,2.0,mercy,support
+4,win,numbani,attack,2.0,ana,support
+4,win,nepal,cp,24.0,zen,support
+4,win,route 66,defend,7.0,mercy,support
+4,win,route 66,attack,5.5,mercy,support
+4,win,route 66,defend,4.0,mercy,support
+4,win,nepal,cp,17.0,lucio,support
+4,loss,temple of anubis,attack,4.0,ana,support
+4,loss,temple of anubis,defend,1.0,mercy,support
+4,win,numbani,attack,6.0,zen,support
+4,win,numbani,defend,7.0,mercy,support
+4,win,numbani,attack,2.0,zen,support
+4,loss,dorado,defend,4.0,mercy,support
+4,loss,dorado,attack,5.0,mercy,support
+4,win,hollywood,defend,4.0,mercy,support
+4,win,hollywood,attack,4.0,zen,support
+4,draw,volskaya industries,defend,8.0,mercy,support
+4,draw,volskaya industries,attack,8.0,zen,support
+4,win,oasis,cp,18.0,lucio,support
+4,win,hollywood,attack,9.0,zen,support
+4,win,hollywood,defend,8.0,mercy,support
+4,win,hollywood,defend,1.5,mercy,support
+4,win,numbani,attack,9.0,zen,support
+4,win,hanamura,defend,8.0,zen,support
+4,loss,numbani,defend,9.0,ana,support
+4,loss,numbani,attack,4.5,zen,support
+4,win,nepal,cp,14.5,lucio,support
+4,loss,volskaya industries,attack,4.0,zen,support
+4,win,gibraltar,attack,8.5,ana,support
+4,win,gibraltar,defend,4.0,mercy,support
+4,loss,eichenwalde,attack,10.0,lucio,support
+4,loss,eichenwalde,defend,8.0,mercy,support
+4,loss,route 66,attack,6.0,lucio,support
+4,loss,route 66,defend,5.5,lucio,support
+4,loss,route 66,attack,2.0,lucio,support
+4,loss,route 66,defend,2.0,mercy,support
+4,loss,eichenwalde,defend,8.0,mercy,support
+4,loss,eichenwalde,attack,8.0,mercy,support
+4,loss,dorado,defend,8.0,zen,support
+4,loss,dorado,attack,8.0,lucio,support
+4,loss,oasis,cp,19.0,lucio,support
+4,win,king's row,attack,3.5,zen,support
+4,win,king's row,defend,6.0,zen,support
+4,win,king's row,defend,4.5,mercy,support
+4,win,king's row,attack,3.0,zen,support
+4,win,hollywood,defend,8.0,zen,support
+4,win,hollywood,attack,5.0,zen,support
+4,loss,illios,cp,17.0,zen,support
+4,loss,dorado,defend,8.0,zen,support
+4,loss,dorado,attack,8.0,zen,support
+4,win,volskaya industries,defend,8.0,zen,support
+4,win,volskaya industries,attack,4.0,zen,support
+4,loss,gibraltar,defend,6.0,ana,support
+4,loss,gibraltar,attack,8.5,ana,support
+4,loss,lijiang tower,cp,11.5,zen,support
+4,loss,route 66,defend,8.5,zen,support
+4,loss,route 66,attack,8.0,zen,support
+4,win,oasis,cp,15.5,lucio,support
+4,win,eichenwalde,defend,8.0,zen,support
+4,win,eichenwalde,attack,7.0,mercy,support
+4,loss,numbani,attack,5.0,zen,support
+4,loss,numbani,defend,5.0,mercy,support
+4,loss,numbani,defend,8.0,mercy,support
+4,loss,numbani,attack,3.5,zen,support
+4,loss,hollywood,attack,4.0,zen,support
+4,loss,hollywood,defend,5.0,mercy,support
+4,loss,eichenwalde,defend,7.0,zen,support
+4,loss,eichenwalde,attack,7.0,zen,support
+4,loss,eichenwalde,attack,1.5,ana,support
+4,loss,eichenwalde,defend,1.5,mercy,support
+4,win,hanamura,attack,7.0,mercy,support
+4,win,hanamura,defend,7.0,mercy,support
+4,win,hanamura,attack,1.0,lucio,support
+4,win,hanamura,defend,1.5,ana,support
+4,win,nepal,cp,13.5,ana,support
+4,loss,oasis,cp,13.0,lucio,support
+4,loss,king's row,defend,8.0,zen,support
+4,loss,king's row,attack,4.0,ana,support
+4,loss,lijiang tower,cp,17.5,lucio,support
+4,win,illios,cp,15.5,lucio,support
+4,win,temple of anubis,attack,8.0,zen,support
+4,win,temple of anubis,defend,4.0,mercy,support
+4,win,oasis,cp,22.0,lucio,support
+4,loss,numbani,defend,6.0,zen,support
+4,loss,numbani,attack,4.5,mercy,support
+4,loss,hollywood,attack,8.0,zen,support
+4,loss,hollywood,defend,11.0,ana,support
+4,win,dorado,attack,6.5,ana,support
+4,win,dorado,defend,6.0,mercy,support
+4,loss,numbani,defend,7.5,mercy,support
+4,loss,numbani,attack,8.0,ana,support
+4,loss,nepal,cp,13.5,lucio,support
+4,win,king's row,attack,6.0,mercy,support
+4,win,king's row,defend,6.0,mercy,support
+4,loss,dorado,attack,4.0,zen,support
+4,win,hollywood,defend,4.0,symmetra,damage
+4,win,hollywood,attack,1.0,lucio,support
+4,loss,eichenwalde,defend,8.0,symmetra,damage
+4,loss,eichenwalde,attack,8.0,ana,support
+4,loss,route 66,defend,9.0,mercy,support
+4,loss,route 66,attack,8.0,ana,support
+4,loss,hanamura,defend,2.0,mercy,support
+4,loss,hanamura,attack,8.0,ana,support
+4,loss,volskaya industries,defend,8.0,mercy,support
+4,loss,volskaya industries,attack,8.0,ana,support
+4,loss,volskaya industries,defend,2.0,mercy,support
+4,loss,volskaya industries,attack,4.0,ana,support
+4,win,gibraltar,defend,4.0,mercy,support
+4,win,gibraltar,attack,3.0,mercy,support
+4,loss,eichenwalde,defend,5.0,mercy,support
+4,loss,eichenwalde,attack,8.0,zen,support
+4,win,numbani,defend,4.0,mercy,support
+4,win,numbani,attack,4.0,mercy,support
+4,win,lijiang tower,cp,14.5,zen,support
+4,loss,hollywood,attack,6.5,zen,support
+4,loss,hollywood,defend,6.5,zen,support
+4,loss,hollywood,attack,4.0,zen,support
+4,loss,hollywood,defend,2.0,zen,support
+4,win,temple of anubis,attack,2.0,zen,support
+4,win,temple of anubis,defend,5.5,zen,support
+4,win,temple of anubis,defend,2.5,zen,support
+4,win,temple of anubis,attack,2.0,lucio,support
+4,loss,king's row,attack,6.0,ana,support
+4,loss,king's row,defend,4.0,mercy,support
+4,win,numbani,attack,8.0,lucio,support
+4,win,numbani,defend,4.0,mercy,support
+4,loss,temple of anubis,defend,3.3,mercy,support
+4,loss,temple of anubis,attack,6.5,zen,support
+4,loss,temple of anubis,attack,1.0,mercy,support
+4,loss,temple of anubis,defend,2.0,mercy,support
+4,win,lijiang tower,cp,22.0,mercy,support
+4,win,route 66,attack,8.0,zen,support
+4,win,route 66,defend,8.0,zen,support
+4,loss,volskaya industries,attack,8.0,mercy,support
+4,loss,volskaya industries,defend,5.0,mercy,support
+4,win,eichenwalde,defend,8.0,mercy,support
+4,win,eichenwalde,attack,7.0,lucio,support
+4,win,lijiang tower,cp,21.0,mercy,support
+4,loss,king's row,attack,4.0,zen,support
+4,loss,king's row,defend,1.0,zen,support
+4,loss,lijiang tower,cp,21.0,ana,support
+4,win,illios,cp,12.0,lucio,support
+4,win,hollywood,defend,7.0,ana,support
+4,win,hollywood,attack,4.0,ana,support
+4,win,nepal,cp,22.0,ana,support
+4,loss,eichenwalde,defend,8.0,mercy,support
+4,loss,eichenwalde,attack,7.0,mercy,support
+4,loss,eichenwalde,defend,1.0,mercy,support
+4,loss,eichenwalde,attack,2.0,mercy,support
+4,win,dorado,defend,7.0,mercy,support
+4,win,dorado,attack,8.0,mercy,support
+4,win,dorado,attack,2.0,mercy,support
+4,win,dorado,defend,1.0,mercy,support
+4,win,nepal,cp,19.5,mercy,support
+4,loss,route 66,defend,9.0,ana,support
+4,loss,route 66,attack,8.0,zen,support
+4,loss,gibraltar,defend,4.0,ana,support
+4,loss,gibraltar,attack,4.0,zen,support
+4,loss,eichenwalde,defend,8.0,mercy,support
+4,loss,eichenwalde,attack,9.0,ana,support
+4,loss,illios,cp,11.5,lucio,support
+4,win,oasis,cp,15.5,zen,support
+4,draw,numbani,attack,8.0,lucio,support
+4,draw,numbani,defend,9.0,lucio,support
+4,draw,numbani,defend,2.0,mercy,support
+4,loss,volskaya industries,attack,8.0,zen,support
+4,loss,volskaya industries,defend,7.0,lucio,support
+4,loss,gibraltar,attack,6.0,zen,support
+4,loss,gibraltar,defend,2.0,mercy,support
+4,loss,lijiang tower,cp,13.5,lucio,support
+4,win,oasis,cp,20.5,lucio,support
+4,draw,eichenwalde,defend,4.5,zen,support
+4,draw,eichenwalde,attack,4.0,zen,support
+4,win,volskaya industries,defend,4.0,ana,support
+4,win,volskaya industries,attack,5.0,zen,support
+4,win,king's row,attack,9.0,ana,support
+4,win,king's row,defend,9.0,ana,support
+4,loss,hollywood,attack,4.0,zen,support
+4,loss,hollywood,defend,3.0,torbjorn,damage
+4,win,lijiang tower,cp,13.0,mercy,support
+4,loss,temple of anubis,attack,4.5,ana,support
+4,loss,temple of anubis,defend,2.0,mercy,support
+4,loss,temple of anubis,attack,4.0,ana,support
+4,loss,temple of anubis,defend,5.0,mercy,support
+4,loss,nepal,cp,17.5,lucio,support
+4,loss,eichenwalde,defend,7.0,zen,support
+4,loss,eichenwalde,attack,8.0,ana,support
+4,loss,hollywood,defend,9.0,zen,support
+4,loss,hollywood,attack,6.0,zen,support
+4,win,king's row,defend,8.0,mercy,support
+4,win,king's row,attack,2.5,mercy,support
+4,loss,gibraltar,defend,3.5,zen,support
+4,loss,gibraltar,attack,8.0,mercy,support
+4,loss,oasis,cp,17.0,lucio,support
+4,win,lijiang tower,cp,19.5,torbjorn,damage
+4,loss,gibraltar,attack,8.0,mercy,support
+4,loss,gibraltar,defend,5.0,zen,support
+4,win,numbani,attack,7.0,zen,support
+4,win,numbani,defend,8.0,zen,support
+4,draw,temple of anubis,attack,8.5,mercy,support
+4,draw,temple of anubis,defend,8.0,mercy,support
+4,loss,hollywood,attack,4.0,mercy,support
+4,loss,volskaya industries,attack,8.5,zen,support
+4,loss,volskaya industries,defend,5.5,mercy,support
+4,win,illios,cp,19.0,ana,support
+4,loss,route 66,attack,8.0,mercy,support
+4,loss,route 66,defend,8.5,mercy,support
+4,win,eichenwalde,defend,6.0,torbjorn,damage
+4,win,eichenwalde,attack,2.0,torbjorn,damage
+4,loss,nepal,cp,21.0,lucio,support
+4,win,hanamura,attack,8.5,zen,support
+4,win,hanamura,defend,8.0,zen,support
+4,win,volskaya industries,attack,4.0,zen,support
+4,win,volskaya industries,defend,8.0,zen,support
+4,loss,illios,cp,15.0,ana,support
+4,loss,hollywood,attack,4.0,zen,support
+4,loss,hollywood,defend,2.0,mercy,support
+4,win,route 66,attack,7.0,mercy,support
+4,win,route 66,defend,8.0,mercy,support
+4,win,oasis,cp,20.0,lucio,support
+4,loss,lijiang tower,cp,12.0,lucio,support
+4,win,numbani,attack,4.0,zen,support
+4,win,numbani,defend,4.0,mercy,support
+4,win,gibraltar,attack,8.5,zen,support
+4,win,gibraltar,defend,4.0,ana,support
+4,win,route 66,attack,6.5,zen,support
+4,win,route 66,defend,8.0,mercy,support
+4,win,route 66,defend,1.5,mercy,support
+4,win,route 66,attack,1.0,zen,support
+4,win,eichenwalde,attack,8.0,zen,support
+4,win,eichenwalde,defend,4.5,mercy,support
+4,loss,king's row,attack,4.0,zen,support
+4,loss,king's row,defend,1.5,mercy,support
+4,loss,volskaya industries,attack,7.5,zen,support
+4,loss,volskaya industries,defend,4.0,mercy,support
+4,loss,volskaya industries,attack,1.0,lucio,support
+4,loss,volskaya industries,defend,2.0,mercy,support
+4,loss,hollywood,attack,4.0,mercy,support
+4,win,temple of anubis,defend,4.0,zen,support
+4,win,temple of anubis,attack,4.0,zen,support
+4,loss,illios,cp,25.0,lucio,support
+4,loss,nepal,cp,10.5,lucio,support
+4,win,eichenwalde,defend,4.0,mercy,support
+4,loss,lijiang tower,cp,11.0,lucio,support
+4,win,oasis,cp,15.0,lucio,support
+4,win,route 66,attack,8.0,mercy,support
+4,win,route 66,defend,9.5,ana,support
+4,win,temple of anubis,defend,7.0,zen,support
+4,win,temple of anubis,attack,3.0,zen,support
+4,win,temple of anubis,defend,2.0,zen,support
+4,win,temple of anubis,attack,3.0,zen,support
+4,loss,eichenwalde,attack,4.0,zen,support
+4,loss,eichenwalde,defend,1.0,zen,support
+4,loss,nepal,cp,13.5,ana,support
+4,loss,temple of anubis,attack,4.0,zen,support
+4,loss,temple of anubis,defend,1.0,mercy,support
+4,loss,volskaya industries,attack,4.0,ana,support
+4,loss,volskaya industries,defend,2.5,mercy,support
+4,win,illios,cp,13.5,lucio,support
+4,loss,route 66,attack,8.0,mercy,support
+4,loss,route 66,defend,7.0,mercy,support
+4,loss,nepal,cp,15.0,mercy,support
+4,win,lijiang tower,cp,11.0,lucio,support
+4,win,illios,cp,17.0,lucio,support
+4,win,lijiang tower,cp,11.0,lucio,support
+4,loss,oasis,cp,11.0,lucio,support
+4,loss,eichenwalde,attack,6.0,zen,support
+4,loss,eichenwalde,defend,6.0,mercy,support
+4,loss,hollywood,defend,7.5,zen,support
+4,win,temple of anubis,defend,4.0,symmetra,damage
+4,win,route 66,attack,8.5,mercy,support
+4,win,route 66,defend,8.5,mercy,support
+4,win,route 66,attack,1.0,mercy,support
+4,win,route 66,defend,1.5,mercy,support
+4,win,dorado,attack,7.0,zen,support
+4,win,dorado,defend,6.5,zen,support
+4,loss,oasis,cp,21.0,zen,support
+4,loss,gibraltar,attack,6.0,zen,support
+4,loss,gibraltar,defend,5.0,mercy,support
+4,loss,route 66,defend,7.0,zen,support
+4,loss,route 66,attack,4.5,ana,support
+4,loss,temple of anubis,attack,8.0,zen,support
+4,loss,temple of anubis,defend,2.0,symmetra,damage
+4,win,hanamura,defend,4.0,zen,support
+4,win,hanamura,attack,2.0,zen,support
+4,loss,lijiang tower,cp,11.0,lucio,support
+4,loss,hollywood,attack,4.0,zen,support
+4,loss,hollywood,defend,1.0,torbjorn,damage
+4,loss,oasis,cp,12.0,mercy,support
+4,loss,hanamura,defend,8.5,mercy,support
+4,loss,hanamura,attack,8.0,zen,support
+4,loss,lijiang tower,cp,17.5,lucio,support
+4,draw,numbani,attack,4.0,zen,support
+4,draw,numbani,defend,4.0,torbjorn,damage
+4,loss,illios,cp,12.5,lucio,support
+4,win,illios,cp,16.0,lucio,support
+4,win,numbani,defend,4.5,ana,support
+4,win,numbani,attack,5.0,lucio,support
+4,win,nepal,cp,21.5,mercy,support
+4,win,gibraltar,attack,9.0,zen,support
+4,win,gibraltar,defend,7.0,mercy,support
+4,loss,temple of anubis,defend,6.5,mercy,support
+4,loss,temple of anubis,attack,8.0,mercy,support
+4,loss,temple of anubis,attack,2.5,mercy,support
+4,win,lijiang tower,cp,17.5,lucio,support
+4,loss,illios,cp,18.0,lucio,support
+4,win,eichenwalde,defend,7.0,zen,support
+4,win,eichenwalde,attack,5.0,lucio,support
+4,win,volskaya industries,defend,4.0,zen,support
+4,win,volskaya industries,attack,1.0,lucio,support
+4,win,oasis,cp,29.0,lucio,support
+4,win,illios,cp,19.5,ana,support
+4,loss,route 66,attack,4.0,mercy,support
+4,loss,temple of anubis,defend,2.0,mercy,support
+4,loss,temple of anubis,attack,8.0,mercy,support
+4,win,hollywood,defend,4.0,mercy,support
+4,win,hollywood,attack,2.5,lucio,support
+4,loss,dorado,attack,4.0,mercy,support
+4,loss,dorado,defend,1.5,mercy,support
+4,win,gibraltar,attack,8.0,mercy,support
+4,win,gibraltar,defend,8.5,mercy,support
+4,win,lijiang tower,cp,22.5,lucio,support
+4,win,volskaya industries,attack,6.5,ana,support
+4,win,volskaya industries,defend,8.0,mercy,support
+4,win,gibraltar,attack,8.5,zen,support
+4,win,gibraltar,defend,4.0,zen,support
+4,win,oasis,cp,18.0,lucio,support
+4,loss,lijiang tower,cp,14.5,lucio,support
+4,win,eichenwalde,defend,4.0,symmetra,damage
+4,win,eichenwalde,attack,1.0,mercy,support
+4,win,lijiang tower,cp,13.5,lucio,support
+4,win,route 66,defend,7.0,zen,support
+4,win,route 66,attack,8.0,lucio,support
+4,loss,dorado,defend,8.0,mercy,support
+4,loss,dorado,attack,8.0,zen,support
+4,loss,gibraltar,defend,4.0,lucio,support
+4,loss,gibraltar,attack,8.0,zen,support
+4,loss,illios,cp,12.5,lucio,support
+4,win,temple of anubis,defend,4.0,mercy,support
+4,win,temple of anubis,attack,2.5,mercy,support
+4,win,eichenwalde,attack,8.0,zen,support
+4,win,eichenwalde,defend,8.0,mercy,support
+4,win,volskaya industries,defend,4.0,zen,support
+4,win,volskaya industries,attack,3.5,ana,support
+4,loss,route 66,attack,8.0,zen,support
+4,loss,route 66,defend,8.0,zen,support
+4,loss,route 66,attack,2.0,zen,support
+4,loss,route 66,defend,2.0,ana,support
+4,win,illios,cp,15.0,lucio,support
+4,win,lijiang tower,cp,18.0,mercy,support
+4,loss,dorado,attack,6.0,zen,support
+4,win,gibraltar,defend,5.0,zen,support
+4,win,gibraltar,attack,4.0,mercy,support
+4,win,gibraltar,attack,4.0,mercy,support
+4,win,gibraltar,defend,4.5,mercy,support
+4,loss,oasis,cp,11.0,lucio,support
+4,win,king's row,attack,6.0,zen,support
+4,win,king's row,defend,4.0,mercy,support
+4,win,hollywood,attack,5.5,mercy,support
+4,win,hollywood,defend,6.0,mercy,support
+4,win,temple of anubis,attack,3.0,zen,support
+4,win,temple of anubis,defend,4.0,lucio,support
+4,loss,numbani,defend,4.5,mercy,support
+4,loss,numbani,attack,6.0,mercy,support
+4,loss,numbani,attack,4.0,mercy,support
+4,loss,numbani,defend,2.0,mercy,support
+4,win,dorado,defend,4.0,zen,support
+4,win,dorado,attack,1.5,torbjorn,damage
+4,win,hanamura,attack,5.5,zen,support
+4,win,hanamura,defend,6.0,zen,support
+4,win,hanamura,defend,2.0,zen,support
+4,win,hanamura,attack,1.5,zen,support
+4,win,illios,cp,13.0,lucio,support
+5,win,lijiang tower,cp,21.0,lucio,support
+5,win,gibraltar,attack,4.0,mercy,support
+5,win,gibraltar,defend,4.0,mercy,support
+5,win,volskaya industries,defend,8.0,zen,support
+5,win,volskaya industries,attack,1.5,lucio,support
+5,win,hanamura,attack,2.0,zen,support
+5,win,hanamura,defend,4.0,zen,support
+5,win,temple of anubis,attack,6.5,zen,support
+5,win,temple of anubis,defend,8.0,mercy,support
+5,win,dorado,attack,8.0,zen,support
+5,win,dorado,defend,8.0,lucio,support
+5,win,eichenwalde,attack,8.0,zen,support
+5,win,eichenwalde,defend,4.0,lucio,support
+5,loss,nepal,cp,24.0,zen,support
+5,loss,numbani,defend,6.0,zen,support
+5,loss,numbani,attack,4.0,ana,support
+5,win,hollywood,defend,8.0,zen,support
+5,win,hollywood,attack,4.5,mercy,support
+5,win,hollywood,defend,1.0,mercy,support
+5,win,hollywood,attack,2.0,zen,support
+5,win,dorado,defend,4.0,zen,support
+5,win,dorado,attack,1.0,zen,support
+5,loss,gibraltar,defend,5.5,zen,support
+5,loss,gibraltar,defend,6.0,mercy,support
+5,loss,numbani,attack,4.0,zen,support
+5,win,king's row,attack,8.0,zen,support
+5,win,king's row,defend,8.0,zen,support
+5,loss,eichenwalde,attack,4.0,lucio,support
+5,loss,eichenwalde,defend,1.5,symmetra,damage
+5,loss,gibraltar,attack,6.0,zen,support
+5,loss,gibraltar,defend,6.5,zen,support
+5,loss,king's row,defend,4.5,ana,support
+5,loss,king's row,attack,8.0,ana,support
+5,win,illios,cp,12.0,zen,support
+5,win,lijiang tower,cp,20.0,lucio,support
+5,win,eichenwalde,defend,6.0,mercy,support
+5,win,eichenwalde,attack,3.0,mercy,support
+5,win,nepal,cp,20.5,mercy,support
+5,loss,hanamura,attack,7.0,mercy,support
+5,loss,hanamura,defend,8.0,mercy,support
+5,loss,hanamura,defend,1.5,mercy,support
+5,loss,hanamura,attack,2.5,mercy,support
+5,loss,numbani,attack,6.0,mercy,support
+5,loss,numbani,defend,4.0,mercy,support
+5,win,hanamura,attack,8.0,lucio,support
+5,win,hanamura,defend,4.0,mercy,support
+5,win,volskaya industries,defend,4.0,zen,support
+5,win,volskaya industries,attack,2.5,zen,support
+5,loss,king's row,attack,8.0,lucio,support
+5,loss,king's row,defend,6.0,zen,support
+5,win,eichenwalde,defend,4.0,mercy,support
+5,win,eichenwalde,attack,1.0,mercy,support
+5,loss,route 66,defend,7.5,ana,support
+5,win,eichenwalde,attack,8.5,zen,support
+5,win,eichenwalde,defend,9.0,zen,support
+5,win,temple of anubis,attack,8.0,zen,support
+5,win,temple of anubis,defend,4.0,ana,support
+5,loss,dorado,attack,8.0,zen,support
+5,loss,dorado,defend,7.0,zen,support
+5,loss,dorado,attack,1.0,zen,support
+5,loss,eichenwalde,attack,4.0,zen,support
+5,loss,eichenwalde,defend,2.5,mercy,support
+5,loss,nepal,cp,11.0,zen,support
+5,win,king's row,attack,6.5,zen,support
+5,win,king's row,defend,8.0,zen,support
+5,draw,hollywood,attack,8.0,lucio,support
+5,draw,hollywood,defend,9.5,lucio,support
+5,draw,hollywood,attack,2.5,lucio,support
+5,win,volskaya industries,defend,8.0,zen,support
+5,win,volskaya industries,attack,2.5,lucio,support
+5,loss,illios,cp,21.5,lucio,support
+5,draw,hanamura,attack,8.0,zen,support
+5,draw,hanamura,defend,8.0,torbjorn,damage
+5,draw,numbani,attack,4.0,zen,support
+5,draw,numbani,defend,4.0,zen,support
+5,win,dorado,attack,6.5,zen,support
+5,win,dorado,defend,4.0,zen,support
+5,loss,temple of anubis,attack,3.5,zen,support
+5,loss,temple of anubis,defend,3.6,zen,support
+5,loss,temple of anubis,defend,2.0,ana,support
+5,loss,temple of anubis,attack,4.5,mercy,support
+5,win,route 66,defend,4.0,zen,support
+5,win,route 66,attack,3.5,zen,support
+5,loss,hanamura,attack,4.0,zen,support
+5,loss,hanamura,defend,2.5,mercy,support
+5,loss,gibraltar,attack,6.5,ana,support
+5,loss,gibraltar,defend,2.0,mercy,support
+5,draw,temple of anubis,attack,5.0,zen,support
+5,draw,temple of anubis,defend,3.5,zen,support
+5,draw,temple of anubis,attack,3.0,zen,support
+5,draw,temple of anubis,defend,4.5,lucio,support
+5,win,route 66,defend,4.0,zen,support
+5,win,route 66,attack,1.0,zen,support
+5,loss,lijiang tower,cp,19.5,mercy,support
+5,loss,volskaya industries,attack,8.0,lucio,support
+5,loss,route 66,defend,8.0,zen,support
+5,loss,route 66,attack,6.5,mercy,support
+5,win,oasis,cp,20.0,lucio,support
+5,loss,king's row,defend,8.0,ana,support
+5,loss,king's row,attack,8.0,ana,support
+5,win,eichenwalde,defend,8.0,mercy,support
+5,win,eichenwalde,attack,4.5,mercy,support
+5,loss,dorado,defend,8.0,mercy,support
+5,loss,dorado,attack,4.0,ana,support
+5,loss,lijiang tower,cp,21.0,lucio,support
+5,loss,illios,cp,20.0,ana,support
+5,loss,oasis,cp,20.0,lucio,support
+5,loss,gibraltar,attack,6.5,zen,support
+5,loss,gibraltar,defend,3.0,ana,support
+5,win,lijiang tower,cp,14.0,lucio,support
+5,loss,hanamura,defend,7.0,zen,support
+5,loss,hanamura,attack,8.0,lucio,support
+5,loss,eichenwalde,defend,8.0,zen,support
+5,loss,eichenwalde,attack,6.5,zen,support
+5,draw,numbani,attack,4.0,zen,support
+5,loss,nepal,cp,23.0,lucio,support
+5,loss,hollywood,defend,8.5,mercy,support
+5,loss,hollywood,attack,4.0,zen,support
+5,loss,lijiang tower,cp,18.5,lucio,support
+5,loss,king's row,attack,6.5,zen,support
+5,loss,king's row,defend,1.0,mercy,support
+5,loss,eichenwalde,attack,6.5,zen,support
+5,loss,eichenwalde,defend,6.0,mercy,support
+5,loss,temple of anubis,defend,4.0,mercy,support
+5,loss,temple of anubis,attack,8.0,mercy,support
+5,win,oasis,cp,18.5,lucio,support
+5,win,temple of anubis,defend,8.0,mercy,support
+5,win,temple of anubis,attack,7.5,mercy,support
+5,win,temple of anubis,defend,2.0,mercy,support
+5,win,temple of anubis,attack,1.5,mercy,support
+5,loss,hollywood,defend,5.5,torbjorn,damage
+5,loss,hollywood,attack,8.0,mercy,support
+5,win,numbani,defend,8.0,mercy,support
+5,win,numbani,attack,8.0,ana,support
+5,win,numbani,attack,1.5,ana,support
+5,win,numbani,defend,0.0,mercy,support
+5,win,hanamura,attack,7.0,zen,support
+5,win,hanamura,defend,8.0,mercy,support
+5,loss,nepal,cp,20.5,mercy,support
+5,loss,temple of anubis,defend,8.0,zen,support
+5,loss,temple of anubis,attack,8.0,lucio,support
+5,loss,dorado,attack,4.0,zen,support
+5,loss,dorado,defend,1.5,mercy,support
+5,win,numbani,defend,4.0,mercy,support
+5,win,numbani,attack,4.0,mercy,support
+5,win,eichenwalde,defend,8.0,zen,support
+5,win,eichenwalde,attack,8.0,zen,support
+5,win,oasis,cp,17.0,mercy,support
+5,win,volskaya industries,defend,4.0,zen,support
+5,win,volskaya industries,attack,2.5,zen,support
+5,win,volskaya industries,defend,2.0,ana,support
+5,win,volskaya industries,attack,1.5,zen,support
+5,win,volskaya industries,defend,1.5,zen,support
+5,win,volskaya industries,attack,1.5,zen,support
+5,loss,hollywood,defend,6.5,zen,support
+5,loss,hollywood,attack,4.0,mercy,support
+5,loss,illios,cp,14.0,lucio,support
+5,win,nepal,cp,17.0,lucio,support
+5,win,hanamura,attack,5.0,zen,support
+5,win,hanamura,defend,4.0,torbjorn,damage
+5,win,numbani,attack,8.0,zen,support
+5,win,eichenwalde,attack,6.5,zen,support
+5,win,eichenwalde,defend,4.0,torbjorn,damage
+5,win,volskaya industries,defend,2.0,mercy,support
+5,win,volskaya industries,attack,3.5,zen,support
+5,win,volskaya industries,attack,2.5,zen,support
+5,win,volskaya industries,defend,5.0,zen,support
+5,loss,king's row,attack,8.0,zen,support
+5,loss,king's row,defend,9.0,zen,support
+5,win,temple of anubis,defend,7.0,zen,support
+5,win,temple of anubis,attack,5.0,mercy,support
+5,win,temple of anubis,defend,1.5,mercy,support
+5,win,temple of anubis,attack,3.0,mercy,support
+5,loss,king's row,attack,8.0,zen,support
+5,loss,king's row,defend,7.0,mercy,support
+5,loss,numbani,defend,5.0,zen,support
+5,loss,numbani,attack,8.0,zen,support
+5,loss,numbani,attack,1.0,zen,support
+5,loss,lijiang tower,cp,19.0,lucio,support
+5,loss,temple of anubis,defend,4.0,zen,support
+5,loss,temple of anubis,attack,4.0,zen,support
+5,draw,horizon,defend,2.5,zen,support
+5,draw,horizon,attack,7.0,lucio,support
+5,draw,horizon,attack,3.0,lucio,support
+5,loss,nepal,cp,20.0,lucio,support
+5,win,hanamura,attack,8.0,zen,support
+5,win,hanamura,defend,8.0,zen,support
+5,loss,lijiang tower,cp,13.0,lucio,support
+5,win,volskaya industries,defend,8.0,zen,support
+5,win,volskaya industries,attack,3.0,zen,support
+5,win,temple of anubis,defend,8.0,mercy,support
+5,win,temple of anubis,attack,8.0,mercy,support
+5,loss,numbani,defend,8.0,mercy,support
+5,loss,numbani,attack,4.0,mercy,support
+5,win,dorado,defend,4.0,mercy,support
+5,win,dorado,attack,2.0,mercy,support
+5,win,nepal,cp,18.0,lucio,support
+5,loss,numbani,defend,5.0,mercy,support
+5,loss,numbani,attack,6.0,lucio,support
+5,loss,numbani,attack,2.0,lucio,support
+5,loss,hanamura,defend,2.0,mercy,support
+5,loss,hanamura,attack,4.0,mercy,support
+5,loss,king's row,defend,8.0,ana,support
+5,loss,king's row,attack,4.0,ana,support
+5,draw,temple of anubis,defend,4.0,zen,support
+5,draw,temple of anubis,attack,4.0,zen,support
+5,win,oasis,cp,17.5,lucio,support
+5,win,eichenwalde,attack,8.0,zen,support
+5,win,eichenwalde,defend,6.5,ana,support
+5,win,illios,cp,12.0,zen,support
+5,win,nepal,cp,17.0,lucio,support
+5,win,horizon,defend,8.0,symmetra,damage
+5,win,horizon,attack,7.0,lucio,support
+5,win,hanamura,defend,8.0,ana,support
+5,win,hanamura,attack,4.0,ana,support
+5,loss,oasis,cp,19.0,lucio,support
+5,loss,dorado,attack,6.0,zen,support
+5,loss,dorado,defend,5.0,lucio,support
+5,loss,gibraltar,attack,4.0,zen,support
+5,loss,volskaya industries,defend,3.0,zen,support
+5,loss,volskaya industries,attack,8.0,zen,support
+5,loss,king's row,attack,4.0,mercy,support
+5,loss,king's row,defend,3.0,mercy,support
+5,win,route 66,attack,8.0,zen,support
+5,win,route 66,defend,8.0,zen,support
+5,win,horizon,defend,8.0,ana,support
+5,win,horizon,attack,3.0,ana,support
+5,win,eichenwalde,attack,6.0,ana,support
+5,win,eichenwalde,defend,8.0,mercy,support
+5,loss,hollywood,attack,8.0,ana,support
+5,loss,hollywood,defend,6.0,ana,support
+5,loss,oasis,cp,14.0,ana,support
+5,win,illios,cp,23.0,lucio,support
+5,win,eichenwalde,attack,8.0,zen,support
+5,win,eichenwalde,defend,8.0,mercy,support
+5,loss,numbani,attack,3.0,lucio,support
+5,loss,numbani,defend,6.5,lucio,support
+5,loss,numbani,attack,2.0,zen,support
+5,loss,oasis,cp,13.5,lucio,support
+5,win,route 66,attack,8.0,zen,support
+5,win,route 66,defend,8.0,zen,support
+5,win,volskaya industries,attack,5.5,zen,support
+5,win,volskaya industries,defend,3.0,zen,support
+5,win,volskaya industries,attack,3.0,zen,support
+5,win,volskaya industries,defend,5.0,zen,support
+5,win,eichenwalde,defend,8.0,ana,support
+5,win,eichenwalde,attack,8.0,ana,support
+5,loss,nepal,cp,11.0,lucio,support
+5,loss,horizon,defend,2.0,lucio,support
+5,loss,horizon,attack,8.0,zen,support
+5,loss,king's row,defend,5.0,torbjorn,damage
+5,loss,king's row,attack,7.0,torbjorn,damage
+5,loss,king's row,attack,2.0,pharah,damage
+5,loss,king's row,defend,2.0,torbjorn,damage
+5,win,gibraltar,attack,5.5,torbjorn,damage
+5,win,gibraltar,defend,6.0,torbjorn,damage
+5,loss,illios,cp,18.5,torbjorn,damage
+5,loss,nepal,cp,15.0,torbjorn,damage
+5,loss,hanamura,attack,8.0,symmetra,damage
+5,loss,hanamura,defend,4.0,symmetra,damage
+5,loss,route 66,defend,8.0,torbjorn,damage
+5,loss,eichenwalde,defend,4.0,symmetra,damage
+5,loss,eichenwalde,attack,4.0,ana,support
+5,loss,eichenwalde,attack,6.0,ana,support
+5,loss,eichenwalde,defend,3.0,mercy,support
+5,win,gibraltar,defend,4.0,zen,support
+5,win,gibraltar,attack,1.5,zen,support
+5,loss,illios,cp,19.5,lucio,support
+5,loss,king's row,attack,8.0,torbjorn,damage
+5,loss,king's row,defend,4.0,zen,support
+5,loss,volskaya industries,attack,8.0,mercy,support
+5,loss,volskaya industries,defend,1.0,mercy,support
+5,loss,volskaya industries,attack,1.5,zen,support
+5,loss,volskaya industries,defend,2.0,zen,support
+5,draw,numbani,attack,4.0,zarya,tank
+5,win,nepal,cp,10.0,mercy,support
+5,loss,gibraltar,attack,4.0,winston,tank
+5,loss,gibraltar,defend,2.0,torbjorn,damage
+5,win,hollywood,attack,8.5,mercy,support
+5,win,hollywood,defend,4.0,mercy,support
+5,win,numbani,defend,6.5,mercy,support
+5,win,numbani,attack,3.0,mercy,support
+5,loss,dorado,defend,7.5,mercy,support
+5,loss,dorado,attack,5.0,mercy,support
+5,loss,dorado,attack,3.5,mercy,support
+5,draw,horizon,defend,4.0,zen,support
+5,draw,horizon,attack,4.0,mercy,support
+5,draw,horizon,attack,4.0,mercy,support
+5,draw,horizon,defend,4.0,mercy,support
+5,win,numbani,defend,8.0,torbjorn,damage
+5,win,numbani,attack,4.0,symmetra,damage
+5,win,oasis,cp,9.0,torbjorn,damage
+5,loss,eichenwalde,attack,4.0,torbjorn,damage
+5,loss,dorado,attack,5.0,zen,support
+5,loss,dorado,defend,8.0,zen,support
+5,loss,dorado,attack,4.0,zen,support
+5,win,gibraltar,defend,4.0,torbjorn,damage
+5,win,gibraltar,attack,4.0,torbjorn,damage
+5,win,eichenwalde,attack,8.0,mercy,support
+5,win,eichenwalde,defend,4.0,symmetra,damage
+5,loss,hollywood,attack,6.0,zen,support
+5,loss,hollywood,defend,6.5,zen,support
+5,loss,hollywood,attack,3.0,zen,support
+5,win,numbani,defend,4.0,symmetra,damage
+5,win,numbani,attack,1.5,zen,support
+5,loss,nepal,cp,10.0,lucio,support
+5,win,dorado,defend,8.0,mercy,support
+5,win,dorado,attack,8.0,mercy,support
+5,win,king's row,defend,8.0,symmetra,damage
+5,win,king's row,attack,4.5,zen,support
+5,win,dorado,attack,8.0,winston,tank
+5,win,dorado,defend,4.0,d'va,tank
+5,win,horizon,defend,5.0,mercy,support
+5,win,horizon,attack,4.0,mercy,support
+5,win,horizon,defend,4.0,mercy,support
+5,win,horizon,attack,2.5,mercy,support
+5,loss,temple of anubis,defend,3.0,mercy,support
+5,loss,temple of anubis,attack,4.0,zen,support
+5,loss,illios,cp,22.5,mercy,support
+5,loss,eichenwalde,defend,6.5,mercy,support
+5,loss,eichenwalde,attack,6.5,mercy,support
+5,loss,hollywood,attack,6.5,mercy,support
+5,loss,hollywood,defend,6.0,mercy,support
+5,win,horizon,attack,2.5,zen,support
+5,win,horizon,defend,4.5,mercy,support
+5,loss,numbani,attack,4.0,zen,support
+5,loss,numbani,defend,2.0,mercy,support
+5,win,volskaya industries,attack,1.5,zen,support
+5,win,volskaya industries,defend,8.0,symmetra,damage
+5,win,illios,cp,12.0,lucio,support
+5,loss,oasis,cp,18.0,mercy,support
+5,loss,nepal,cp,18.5,zen,support
+5,win,hanamura,defend,0.0,zen,support
+5,win,hanamura,attack,1.0,zen,support
+5,win,volskaya industries,defend,4.0,zen,support
+5,win,volskaya industries,attack,3.0,zen,support
+5,loss,gibraltar,defend,8.0,zen,support
+5,loss,gibraltar,attack,4.0,ana,support
+5,win,nepal,cp,10.0,lucio,support
+5,loss,hollywood,defend,7.0,zen,support
+5,loss,hollywood,attack,3.0,zen,support
+5,loss,dorado,defend,6.5,zen,support
+5,loss,dorado,attack,6.5,zen,support
+5,loss,king's row,attack,4.0,zen,support
+5,loss,king's row,defend,3.0,mercy,support
+5,loss,oasis,cp,10.5,zen,support
+5,win,eichenwalde,defend,4.0,mercy,support
+5,win,eichenwalde,attack,1.0,mercy,support
+5,win,temple of anubis,defend,4.0,mercy,support
+5,win,temple of anubis,attack,1.0,mercy,support
+5,win,hanamura,defend,4.0,mercy,support
+5,win,hanamura,attack,1.0,mercy,support
+5,loss,hollywood,attack,7.0,mercy,support
+5,loss,route 66,attack,8.0,mercy,support
+5,win,nepal,cp,14.5,lucio,support
+5,draw,horizon,defend,4.0,ana,support
+5,draw,horizon,attack,8.0,zen,support
+5,draw,horizon,defend,4.0,zen,support
+5,loss,lijiang tower,cp,9.0,lucio,support
+5,win,king's row,attack,8.5,zen,support
+5,win,king's row,defend,8.0,zen,support
+5,draw,hollywood,defend,7.5,zen,support
+5,draw,hollywood,attack,8.0,zen,support
+5,draw,hollywood,attack,2.0,lucio,support
+5,draw,hollywood,defend,2.0,torbjorn,damage
+5,win,lijiang tower,cp,19.0,lucio,support
+5,win,route 66,attack,5.5,zen,support
+5,win,route 66,defend,8.0,zen,support
+5,win,king's row,attack,8.0,zen,support
+5,win,king's row,defend,8.0,zen,support
+5,draw,hanamura,defend,4.0,ana,support
+5,draw,hanamura,attack,4.0,ana,support
+5,loss,volskaya industries,defend,6.0,ana,support
+5,loss,volskaya industries,attack,6.0,ana,support
+5,loss,volskaya industries,defend,2.5,ana,support
+5,loss,volskaya industries,attack,5.0,zen,support
+5,win,oasis,cp,11.5,zen,support
+5,draw,king's row,defend,6.0,mercy,support
+5,draw,king's row,attack,8.5,mercy,support
+5,draw,king's row,defend,2.0,mercy,support
+5,win,temple of anubis,defend,4.0,zen,support
+5,win,temple of anubis,attack,1.5,zen,support
+5,loss,horizon,defend,5.0,ana,support
+5,loss,horizon,attack,3.0,torbjorn,damage
+5,loss,horizon,attack,3.0,zen,support
+5,loss,horizon,defend,1.0,mercy,support
+5,win,gibraltar,defend,4.0,zen,support
+5,win,hanamura,defend,8.0,zen,support
+5,win,illios,cp,15.0,lucio,support
+5,loss,eichenwalde,defend,7.0,mercy,support
+5,loss,eichenwalde,attack,4.0,mercy,support
+5,loss,horizon,defend,7.5,mercy,support
+5,loss,horizon,attack,8.0,zen,support
+5,win,illios,cp,11.0,lucio,support
+5,loss,dorado,defend,8.0,zen,support
+5,loss,dorado,attack,7.0,mercy,support
+5,win,volskaya industries,defend,4.0,mercy,support
+5,win,volskaya industries,attack,3.5,mercy,support
+5,draw,horizon,attack,4.0,zen,support
+5,draw,horizon,defend,3.5,zen,support
+5,draw,horizon,defend,4.0,zen,support
+5,draw,horizon,attack,4.0,lucio,support
+5,loss,numbani,defend,7.5,zen,support
+5,loss,numbani,attack,8.0,ana,support
+5,loss,temple of anubis,defend,6.0,zen,support
+5,loss,temple of anubis,attack,8.0,zen,support
+5,loss,gibraltar,defend,8.0,zen,support
+5,loss,gibraltar,attack,8.0,zen,support
+5,loss,horizon,defend,5.0,zen,support
+5,loss,horizon,attack,8.0,zen,support
+5,loss,route 66,defend,8.0,torbjorn,damage
+5,loss,route 66,attack,8.0,ana,support
+5,loss,eichenwalde,defend,8.0,symmetra,damage
+5,loss,eichenwalde,attack,4.0,lucio,support
+5,loss,volskaya industries,defend,5.0,mercy,support
+5,loss,volskaya industries,attack,8.0,ana,support
+5,win,temple of anubis,defend,4.0,symmetra,damage
+5,win,temple of anubis,attack,1.0,lucio,support
+5,win,nepal,cp,8.0,lucio,support
+5,win,hanamura,defend,8.0,mercy,support
+5,win,hanamura,attack,3.0,mercy,support
+5,win,dorado,attack,6.0,zen,support
+5,win,dorado,defend,7.0,zen,support
+5,win,volskaya industries,attack,7.5,lucio,support
+5,win,volskaya industries,defend,4.0,zen,support
+5,win,gibraltar,attack,8.0,zen,support
+5,win,gibraltar,defend,7.0,mercy,support
+5,win,illios,cp,21.0,lucio,support
+5,loss,route 66,defend,8.0,zen,support
+5,loss,route 66,attack,6.0,zen,support
+5,loss,lijiang tower,cp,10.0,lucio,support
+5,win,numbani,defend,8.0,symmetra,damage
+5,win,numbani,attack,4.0,zen,support
+5,win,dorado,defend,7.0,zen,support
+5,win,dorado,attack,3.0,zen,support
+6,win,dorado,defend,8.0,symmetra,damage
+6,win,temple of anubis,defend,4.0,symmetra,damage
+6,win,temple of anubis,attack,4.0,ana,support
+6,draw,hanamura,defend,8.0,symmetra,damage
+6,loss,eichenwalde,attack,8.0,ana,support
+6,loss,dorado,attack,4.0,ana,support
+6,win,lijiang tower,cp,8.5,lucio,support
+6,loss,king's row,defend,8.0,ana,support
+6,loss,king's row,attack,8.0,mercy,support
+6,loss,volskaya industries,defend,6.5,symmetra,damage
+6,loss,volskaya industries,attack,8.0,ana,support
+6,win,nepal,cp,14.5,ana,support
+6,win,numbani,attack,6.0,orisa,tank
+6,win,numbani,attack,3.0,pharah,damage
+6,win,illios,cp,6.0,zen,support
+6,win,lijiang tower,cp,9.0,lucio,support
+6,win,king's row,defend,0.0,zen,support
+6,win,king's row,attack,1.0,zen,support
+6,loss,horizon,defend,4.5,orisa,tank
+6,loss,horizon,attack,4.0,mercy,support
+6,loss,oasis,cp,15.0,lucio,support
+6,draw,numbani,attack,4.0,zen,support
+6,draw,numbani,defend,4.0,mercy,support
+6,win,eichenwalde,defend,4.0,d'va,tank
+6,win,eichenwalde,attack,3.0,zen,support
+6,win,nepal,cp,6.5,lucio,support
+6,loss,illios,cp,14.5,mercy,support
+6,win,numbani,defend,8.0,mercy,support
+6,win,numbani,attack,7.0,mercy,support
+6,loss,route 66,defend,8.0,mercy,support
+6,loss,route 66,attack,8.0,mercy,support
+6,loss,route 66,attack,4.0,mercy,support
+6,loss,route 66,defend,2.0,mercy,support
+6,win,lijiang tower,cp,8.5,lucio,support
+6,win,eichenwalde,defend,4.0,zen,support
+6,win,eichenwalde,attack,3.5,zen,support
+6,win,hanamura,attack,4.0,mercy,support
+6,win,hanamura,defend,4.0,mercy,support
+6,loss,temple of anubis,defend,7.5,zen,support
+6,loss,temple of anubis,attack,8.0,zen,support
+6,win,oasis,cp,13.5,zen,support
+6,win,volskaya industries,attack,4.0,zen,support
+6,win,volskaya industries,defend,6.5,mercy,support
+6,win,volskaya industries,defend,4.0,mercy,support
+6,win,volskaya industries,attack,1.5,mercy,support
+6,loss,route 66,attack,4.0,mercy,support
+6,loss,eichenwalde,defend,8.0,mercy,support
+6,loss,eichenwalde,attack,7.0,mercy,support
+6,win,gibraltar,defend,4.0,lucio,support
+6,win,gibraltar,attack,2.0,lucio,support
+6,win,illios,cp,16.0,d'va,tank
+6,loss,temple of anubis,defend,5.0,d'va,tank
+6,loss,temple of anubis,attack,4.0,d'va,tank
+6,win,king's row,defend,4.0,mercy,support
+6,win,king's row,attack,2.0,orisa,tank
+6,win,dorado,defend,7.0,zen,support
+6,win,dorado,attack,6.0,zen,support
+6,win,volskaya industries,defend,4.0,mercy,support
+6,win,volskaya industries,attack,3.0,mercy,support
+6,loss,nepal,cp,9.0,mercy,support
+6,loss,horizon,defend,4.5,mercy,support
+6,loss,horizon,attack,8.0,d'va,tank
+6,win,oasis,cp,13.5,zen,support
+6,loss,route 66,attack,8.0,zen,support
+6,loss,route 66,defend,8.0,mercy,support
+6,win,dorado,attack,6.5,zen,support
+6,win,dorado,defend,8.5,zen,support
+6,win,hollywood,attack,7.0,zen,support
+6,win,hollywood,defend,4.0,zen,support
+6,win,hanamura,attack,8.0,zen,support
+6,win,hanamura,defend,4.0,zen,support
+6,loss,route 66,defend,8.0,zen,support
+6,loss,route 66,attack,7.0,zen,support
+6,win,eichenwalde,defend,4.0,zen,support
+6,win,eichenwalde,attack,4.0,zen,support
+6,loss,oasis,cp,10.0,zen,support
+6,loss,temple of anubis,attack,8.0,zen,support
+6,loss,temple of anubis,defend,8.0,d'va,tank
+6,win,eichenwalde,attack,5.5,zen,support
+6,win,eichenwalde,defend,7.0,mercy,support
+6,win,nepal,cp,10.0,zen,support
+6,loss,lijiang tower,cp,9.0,zen,support
+6,loss,horizon,defend,8.0,zen,support
+6,loss,horizon,attack,4.0,zen,support
+6,win,illios,cp,6.5,zen,support
+6,win,oasis,cp,8.5,zen,support
+6,loss,dorado,defend,8.0,mercy,support
+6,loss,dorado,attack,8.0,zen,support
+6,win,volskaya industries,defend,6.5,mercy,support
+6,win,volskaya industries,attack,4.5,zen,support
+6,win,volskaya industries,defend,1.5,d'va,tank
+6,win,volskaya industries,attack,1.5,lucio,support
+6,loss,eichenwalde,attack,7.0,zen,support
+6,draw,horizon,attack,4.0,zen,support
+6,loss,hollywood,attack,7.0,zen,support
+6,loss,hollywood,defend,6.0,torbjorn,damage
+6,loss,route 66,attack,4.0,d'va,tank
+6,win,gibraltar,attack,4.0,zen,support
+6,win,gibraltar,defend,6.0,zen,support
+6,win,gibraltar,defend,2.0,zen,support
+6,win,gibraltar,attack,2.0,zen,support
+6,win,hanamura,defend,8.0,zen,support
+6,win,hanamura,attack,5.0,zen,support
+6,win,hanamura,attack,2.0,zen,support
+6,loss,dorado,defend,6.0,zen,support
+6,win,eichenwalde,defend,8.0,mercy,support
+6,win,eichenwalde,attack,5.0,zen,support
+6,win,gibraltar,defend,4.0,zen,support
+6,loss,king's row,defend,7.5,torbjorn,damage
+6,loss,king's row,attack,8.0,zen,support
+6,loss,numbani,defend,8.0,lucio,support
+6,loss,numbani,attack,4.0,mercy,support
+6,win,route 66,defend,4.0,ana,support
+6,win,temple of anubis,attack,6.5,zen,support
+6,win,temple of anubis,defend,8.0,zen,support
+6,loss,hollywood,attack,7.0,zen,support
+6,loss,hollywood,defend,6.0,ana,support
+6,loss,dorado,defend,4.5,zen,support
+6,loss,dorado,attack,4.0,zen,support
+6,win,lijiang tower,cp,11.0,lucio,support
+6,loss,volskaya industries,attack,8.0,zen,support
+6,loss,volskaya industries,defend,4.0,ana,support
+6,win,route 66,defend,4.0,mercy,support
+6,win,route 66,attack,4.0,mercy,support
+6,win,hanamura,defend,8.0,zen,support
+6,win,hanamura,attack,7.0,zen,support
+6,win,illios,cp,9.0,lucio,support
+6,loss,numbani,attack,4.0,mercy,support
+6,loss,nepal,cp,10.0,lucio,support
+6,win,horizon,defend,8.0,zen,support
+6,win,horizon,attack,4.0,zen,support
+6,win,eichenwalde,attack,7.5,zen,support
+6,win,eichenwalde,defend,4.0,zen,support
+6,loss,route 66,defend,7.0,zen,support
+6,loss,route 66,attack,8.0,zen,support
+6,loss,route 66,attack,1.0,zen,support
+6,loss,route 66,defend,0.5,zen,support
+6,win,hanamura,attack,2.0,zen,support
+6,win,hanamura,defend,8.0,mercy,support
+6,win,hanamura,defend,1.0,torbjorn,damage
+6,win,hanamura,attack,3.0,mercy,support
+6,loss,temple of anubis,attack,8.0,zen,support
+6,loss,temple of anubis,defend,5.0,mercy,support
+6,win,numbani,attack,7.0,zen,support
+6,win,numbani,defend,8.0,zen,support
+6,loss,oasis,cp,11.5,zen,support
+6,loss,hollywood,attack,7.0,zen,support
+6,loss,dorado,defend,4.0,mercy,support
+6,loss,dorado,attack,4.0,zen,support
+6,loss,gibraltar,attack,4.0,zen,support
+6,loss,horizon,defend,1.5,mercy,support
+6,loss,lijiang tower,cp,10.0,lucio,support
+6,loss,numbani,defend,5.0,zen,support
+6,loss,numbani,attack,8.0,zen,support
+6,loss,eichenwalde,attack,4.0,ana,support
+6,loss,dorado,attack,7.0,zen,support
+6,loss,route 66,defend,7.0,mercy,support
+6,loss,route 66,attack,4.0,mercy,support
+6,loss,gibraltar,defend,8.0,mercy,support
+6,loss,gibraltar,attack,6.5,zen,support
+6,loss,gibraltar,defend,4.0,zen,support
+6,loss,gibraltar,attack,2.0,zen,support
+6,win,horizon,attack,8.0,zen,support
+6,win,horizon,defend,4.0,mercy,support
+6,win,dorado,defend,8.0,zen,support
+6,win,dorado,attack,7.5,zen,support
+6,loss,temple of anubis,attack,8.0,zen,support
+6,loss,temple of anubis,defend,3.0,mercy,support
+6,loss,hanamura,attack,8.0,zen,support
+6,loss,hanamura,defend,5.0,mercy,support
+6,loss,hanamura,attack,4.0,zen,support
+6,loss,illios,cp,9.0,mercy,support
+6,loss,king's row,defend,8.0,lucio,support
+6,loss,king's row,attack,4.0,lucio,support
+6,win,route 66,defend,8.0,mercy,support
+6,win,route 66,attack,6.5,lucio,support
+6,win,route 66,defend,1.0,mercy,support
+6,win,route 66,attack,1.5,zen,support
+6,win,nepal,cp,13.0,mercy,support
+6,loss,horizon,attack,3.0,lucio,support
+6,loss,horizon,defend,2.0,lucio,support
+6,loss,horizon,attack,6.5,lucio,support
+6,loss,horizon,defend,2.0,lucio,support
+6,loss,horizon,defend,2.0,ana,support
+6,loss,junkertown,attack,8.5,torbjorn,damage
+6,loss,junkertown,attack,3.0,torbjorn,damage
+6,loss,junkertown,defend,3.5,torbjorn,damage
+6,win,king's row,defend,7.0,torbjorn,damage
+6,win,king's row,attack,7.0,ana,support
+6,win,eichenwalde,defend,4.0,symmetra,damage
+6,win,eichenwalde,attack,4.0,lucio,support
+6,loss,dorado,defend,5.5,ana,support
+6,loss,dorado,attack,5.5,orisa,tank
+6,loss,dorado,defend,3.0,orisa,tank
+6,win,king's row,defend,4.0,symmetra,damage
+6,win,illios,cp,10.0,lucio,support
+6,win,temple of anubis,defend,8.0,symmetra,damage
+6,win,temple of anubis,attack,5.0,lucio,support
+6,win,hollywood,defend,4.0,symmetra,damage
+6,win,hollywood,attack,2.0,lucio,support
+6,win,hanamura,attack,8.0,lucio,support
+6,win,hanamura,defend,4.0,symmetra,damage
+6,win,volskaya industries,defend,4.0,symmetra,damage
+6,win,volskaya industries,attack,3.0,lucio,support
+6,win,route 66,attack,5.0,lucio,support
+6,win,route 66,defend,7.0,symmetra,damage
+6,win,oasis,cp,10.0,lucio,support
+6,win,numbani,defend,8.0,symmetra,damage
+6,win,numbani,attack,7.0,lucio,support
+6,win,eichenwalde,attack,4.0,lucio,support
+6,win,nepal,cp,15.0,lucio,support
+6,loss,junkertown,defend,6.0,lucio,support
+6,loss,junkertown,attack,8.0,lucio,support
+6,loss,junkertown,attack,3.0,lucio,support
+6,loss,junkertown,defend,2.0,lucio,support
+6,loss,temple of anubis,attack,8.0,lucio,support
+6,loss,temple of anubis,defend,6.0,lucio,support
+6,loss,temple of anubis,attack,1.0,lucio,support
+6,loss,temple of anubis,defend,4.0,lucio,support
+6,win,numbani,attack,8.0,lucio,support
+6,win,numbani,defend,4.0,torbjorn,damage
+6,loss,hollywood,attack,4.0,zen,support
+6,loss,hollywood,defend,3.0,torbjorn,damage
+6,win,route 66,defend,8.0,mercy,support
+6,win,route 66,attack,5.0,zen,support
+6,win,route 66,defend,1.0,zen,support
+6,win,route 66,attack,2.0,ana,support
+6,win,lijiang tower,cp,13.0,ana,support
+6,win,numbani,defend,4.0,lucio,support
+6,win,numbani,attack,1.0,torbjorn,damage
+6,win,hanamura,attack,4.0,lucio,support
+6,win,hanamura,defend,4.0,zen,support
+6,loss,king's row,attack,6.0,mercy,support
+6,loss,king's row,attack,2.0,mercy,support
+6,loss,king's row,defend,2.5,mercy,support
+6,loss,hollywood,defend,5.5,zen,support
+6,loss,hollywood,attack,7.0,orisa,tank
+6,loss,dorado,attack,4.0,zen,support
+6,loss,dorado,defend,4.0,torbjorn,damage
+6,win,lijiang tower,cp,8.5,lucio,support
+6,win,hanamura,attack,3.5,zen,support
+6,win,hanamura,defend,4.0,orisa,tank
+6,win,nepal,cp,12.0,lucio,support
+6,draw,hollywood,defend,8.0,torbjorn,damage
+6,draw,hollywood,attack,7.5,zen,support
+6,draw,hollywood,defend,1.0,zen,support
+6,draw,hollywood,attack,1.5,zen,support
+6,loss,route 66,defend,7.0,lucio,support
+6,loss,route 66,attack,4.0,zen,support
+6,win,hollywood,attack,8.0,zen,support
+6,win,hollywood,defend,7.0,zen,support
+6,win,illios,cp,8.5,lucio,support
+6,loss,temple of anubis,defend,4.0,zen,support
+6,loss,temple of anubis,attack,4.0,lucio,support
+6,loss,eichenwalde,defend,8.0,mercy,support
+6,loss,eichenwalde,attack,4.0,mercy,support
+6,win,nepal,cp,11.0,lucio,support
+6,loss,hanamura,defend,2.0,zen,support
+6,loss,hanamura,attack,8.0,lucio,support
+6,loss,lijiang tower,cp,6.5,lucio,support
+6,win,hollywood,defend,7.0,mercy,support
+6,win,hollywood,attack,7.5,mercy,support
+6,win,numbani,attack,6.5,zen,support
+6,win,numbani,defend,5.0,symmetra,damage
+6,win,numbani,attack,4.0,zen,support
+6,win,numbani,defend,2.0,symmetra,damage
+6,win,route 66,attack,8.0,zen,support
+6,win,route 66,defend,3.0,zen,support
+6,win,route 66,attack,3.0,mercy,support
+6,win,volskaya industries,attack,3.5,zen,support
+6,win,volskaya industries,defend,4.0,zen,support
+6,loss,king's row,attack,8.0,lucio,support
+6,loss,dorado,attack,2.0,zen,support
+6,loss,volskaya industries,defend,6.0,zen,support
+6,loss,volskaya industries,attack,4.0,zen,support
+6,loss,gibraltar,defend,5.5,mercy,support
+6,loss,gibraltar,attack,8.0,mercy,support
+6,loss,gibraltar,attack,8.0,mercy,support
+6,loss,gibraltar,defend,8.0,mercy,support
+6,loss,gibraltar,defend,8.0,mercy,support
+6,loss,gibraltar,attack,3.0,mercy,support
+6,win,junkertown,attack,8.0,zen,support
+6,win,junkertown,defend,8.0,zen,support
+6,win,temple of anubis,defend,4.0,zen,support
+6,win,temple of anubis,attack,4.0,lucio,support
+6,loss,dorado,attack,3.5,zen,support
+6,loss,dorado,defend,6.0,zen,support
+6,loss,dorado,defend,7.0,zen,support
+6,loss,dorado,attack,3.0,zen,support
+6,loss,king's row,attack,7.0,ana,support
+6,win,illios,cp,8.0,lucio,support
+6,loss,horizon,attack,8.0,lucio,support
+6,loss,horizon,defend,5.5,mercy,support
+6,loss,horizon,defend,2.5,mercy,support
+6,win,gibraltar,attack,5.5,ana,support
+6,win,gibraltar,defend,4.0,ana,support
+6,win,hollywood,defend,7.0,ana,support
+6,win,hollywood,attack,6.0,ana,support
+6,win,eichenwalde,attack,8.0,ana,support
+6,win,eichenwalde,defend,4.0,ana,support
+6,win,nepal,cp,13.0,ana,support
+6,win,oasis,cp,13.0,ana,support
+6,win,junkertown,attack,8.0,ana,support
+6,win,junkertown,defend,2.0,ana,support
+6,win,lijiang tower,cp,11.0,lucio,support
+6,loss,temple of anubis,defend,2.5,ana,support
+6,loss,temple of anubis,attack,4.0,lucio,support
+6,win,eichenwalde,defend,7.0,symmetra,damage
+6,win,eichenwalde,attack,7.0,zen,support
+6,draw,hanamura,attack,4.0,lucio,support
+6,draw,hanamura,defend,4.0,symmetra,damage
+6,loss,volskaya industries,attack,4.0,mercy,support
+6,loss,volskaya industries,defend,4.0,symmetra,damage
+6,win,route 66,defend,8.0,zen,support
+6,win,route 66,attack,4.0,zen,support
+6,win,route 66,defend,2.0,zen,support
+6,win,route 66,attack,2.0,zen,support
+6,win,lijiang tower,cp,11.0,lucio,support
+6,win,hollywood,attack,5.0,ana,support
+6,win,hollywood,defend,8.0,ana,support
+6,win,hollywood,attack,2.0,ana,support
+6,win,king's row,defend,7.0,ana,support
+6,win,king's row,attack,6.0,ana,support
+6,win,junkertown,defend,4.0,ana,support
+6,win,junkertown,attack,2.0,ana,support
+6,win,oasis,cp,12.0,lucio,support
+6,win,horizon,defend,4.5,ana,support
+6,win,horizon,attack,5.0,ana,support
+6,win,numbani,defend,8.0,ana,support
+6,win,numbani,attack,5.0,ana,support
+6,win,dorado,defend,5.0,ana,support
+6,win,dorado,attack,7.0,ana,support
+6,win,dorado,attack,7.0,ana,support
+6,win,dorado,defend,3.0,ana,support
+6,loss,gibraltar,defend,4.0,ana,support
+6,loss,gibraltar,attack,2.0,zen,support
+6,win,hanamura,attack,3.5,lucio,support
+6,win,hanamura,defend,6.5,ana,support
+6,win,hanamura,defend,1.5,ana,support
+6,win,hanamura,attack,1.5,ana,support
+6,win,dorado,attack,8.0,zen,support
+6,win,dorado,defend,7.0,ana,support
+6,loss,hollywood,defend,4.0,torbjorn,damage
+6,loss,hollywood,attack,7.0,ana,support
+6,loss,horizon,defend,8.0,ana,support
+6,loss,horizon,attack,4.0,ana,support
+6,win,hanamura,attack,4.5,mercy,support
+6,win,hanamura,attack,3.0,mercy,support
+6,win,hanamura,attack,3.0,mercy,support
+6,win,hanamura,defend,3.0,mercy,support
+6,loss,junkertown,attack,7.0,orisa,tank
+6,win,volskaya industries,defend,4.0,zen,support
+6,win,volskaya industries,attack,2.0,lucio,support
+6,loss,king's row,defend,4.0,mercy,support
+6,loss,king's row,attack,4.0,mercy,support
+6,loss,gibraltar,defend,6.5,zen,support
+6,loss,gibraltar,attack,7.0,ana,support
+6,loss,gibraltar,attack,8.0,ana,support
+6,loss,gibraltar,defend,4.0,zen,support
+6,loss,route 66,attack,8.0,d'va,tank
+6,loss,route 66,attack,1.0,d'va,tank
+6,loss,route 66,defend,1.0,ana,support
+6,win,illios,cp,13.5,lucio,support
+6,loss,lijiang tower,cp,13.5,lucio,support
+6,loss,oasis,cp,10.0,mercy,support
+6,loss,horizon,defend,6.5,ana,support
+6,loss,horizon,attack,3.5,ana,support
+6,loss,horizon,defend,2.0,ana,support
+6,loss,horizon,attack,5.0,ana,support
+6,win,temple of anubis,attack,8.0,mercy,support
+6,win,temple of anubis,defend,8.0,mercy,support
+6,win,king's row,defend,4.0,zen,support
+7,loss,horizon,defend,2.5,zen,support
+7,loss,horizon,attack,8.0,zen,support
+7,loss,volskaya industries,attack,7.0,zen,support
+7,loss,volskaya industries,defend,6.0,zen,support
+7,loss,volskaya industries,defend,3.0,zen,support
+7,loss,volskaya industries,attack,4.0,ana,support
+7,loss,lijiang tower,cp,8.5,lucio,support
+7,loss,eichenwalde,attack,7.0,lucio,support
+7,loss,temple of anubis,attack,5.5,zen,support
+7,loss,temple of anubis,defend,4.0,ana,support
+7,loss,temple of anubis,attack,2.5,zen,support
+7,win,king's row,attack,5.0,zen,support
+7,win,king's row,defend,8.0,zen,support
+7,loss,illios,cp,7.0,zen,support
+7,draw,numbani,attack,8.0,zen,support
+7,loss,temple of anubis,attack,8.0,zen,support
+7,win,volskaya industries,attack,4.0,zen,support
+7,win,volskaya industries,defend,4.0,zen,support
+7,win,junkertown,attack,6.5,zen,support
+7,win,lijiang tower,cp,6.5,lucio,support
+7,loss,gibraltar,defend,7.0,zen,support
+7,loss,gibraltar,attack,4.0,ana,support
+7,loss,dorado,attack,4.0,orisa,tank
+7,loss,dorado,defend,2.0,orisa,tank
+7,loss,hanamura,attack,4.0,lucio,support
+7,loss,hanamura,defend,2.0,mercy,support
+7,loss,eichenwalde,attack,8.0,zen,support
+7,loss,eichenwalde,defend,6.0,ana,support
+7,loss,illios,cp,7.5,ana,support
+7,loss,route 66,defend,5.0,d'va,tank
+7,loss,volskaya industries,attack,4.0,ana,support
+7,loss,volskaya industries,defend,3.0,mercy,support
+7,loss,illios,cp,12.5,lucio,support
+7,loss,hollywood,defend,8.0,ana,support
+7,loss,hollywood,attack,7.0,mercy,support
+7,draw,temple of anubis,defend,8.0,zen,support
+7,draw,temple of anubis,attack,8.0,ana,support
+7,loss,horizon,defend,8.0,zen,support
+7,loss,horizon,attack,4.0,zen,support
+7,win,gibraltar,attack,8.0,zen,support
+7,win,gibraltar,attack,1.0,zen,support
+7,win,eichenwalde,attack,4.5,zen,support
+7,win,eichenwalde,defend,4.0,ana,support
+7,win,oasis,cp,14.0,lucio,support
+7,win,junkertown,defend,8.0,zen,support
+7,win,junkertown,attack,8.0,ana,support
+7,loss,hanamura,defend,4.0,zen,support
+7,loss,hanamura,attack,8.0,ana,support
+7,win,numbani,attack,4.5,ana,support
+7,win,numbani,defend,8.0,ana,support
+7,loss,temple of anubis,defend,8.0,mercy,support
+7,loss,temple of anubis,attack,8.0,ana,support
+7,win,oasis,cp,12.5,lucio,support
+7,draw,horizon,attack,5.0,zen,support
+7,draw,horizon,defend,2.5,zen,support
+7,draw,horizon,attack,3.0,zen,support
+7,draw,horizon,defend,5.0,ana,support
+7,loss,route 66,attack,7.0,zen,support
+7,loss,route 66,defend,4.0,mercy,support
+7,loss,numbani,defend,8.0,zen,support
+7,loss,numbani,attack,4.0,lucio,support
+7,loss,volskaya industries,defend,4.0,zen,support
+7,loss,volskaya industries,attack,4.0,mercy,support
+7,loss,eichenwalde,defend,6.0,zen,support
+7,loss,eichenwalde,attack,7.0,mercy,support
+7,win,king's row,defend,8.0,mercy,support
+7,win,king's row,attack,5.0,mercy,support
+7,loss,route 66,defend,8.0,orisa,tank
+7,loss,route 66,attack,8.0,mercy,support
+7,loss,temple of anubis,defend,8.0,mercy,support
+7,loss,temple of anubis,attack,4.0,mercy,support
+7,win,gibraltar,defend,7.0,mercy,support
+7,win,gibraltar,attack,7.0,mercy,support
+7,loss,numbani,attack,8.0,mercy,support
+7,loss,numbani,defend,8.0,mercy,support
+7,loss,hanamura,attack,4.0,mercy,support
+7,loss,hanamura,defend,1.0,mercy,support
+7,win,hollywood,attack,5.0,mercy,support
+7,win,hollywood,defend,8.0,mercy,support
+7,loss,eichenwalde,attack,8.0,mercy,support
+7,loss,eichenwalde,defend,4.0,lucio,support
+7,loss,gibraltar,defend,4.0,d'va,tank
+7,loss,gibraltar,attack,4.0,mercy,support
+7,win,horizon,defend,8.0,mercy,support
+7,win,horizon,attack,4.0,mercy,support
+7,win,route 66,attack,8.0,mercy,support
+7,win,route 66,defend,8.0,mercy,support
+7,win,dorado,attack,4.0,mercy,support
+7,win,dorado,defend,6.0,mercy,support
+7,win,dorado,defend,2.0,mercy,support
+7,win,dorado,attack,3.0,mercy,support
+7,win,junkertown,attack,8.0,mercy,support
+7,win,junkertown,defend,4.0,mercy,support
+7,win,eichenwalde,attack,8.0,mercy,support
+7,win,eichenwalde,defend,7.0,mercy,support
+7,win,hanamura,defend,4.0,mercy,support
+7,win,hanamura,attack,4.0,mercy,support
+7,win,hanamura,defend,4.0,mercy,support
+7,win,hanamura,attack,4.0,mercy,support
+7,win,oasis,cp,15.0,mercy,support
+7,loss,hollywood,defend,8.0,mercy,support
+7,loss,hollywood,attack,4.0,mercy,support
+7,loss,temple of anubis,defend,8.0,mercy,support
+7,loss,temple of anubis,attack,8.0,mercy,support
+7,win,gibraltar,attack,4.0,mercy,support
+7,win,gibraltar,defend,4.0,mercy,support
+7,loss,horizon,defend,4.0,mercy,support
+7,loss,horizon,attack,8.0,mercy,support
+7,win,junkertown,attack,7.0,mercy,support
+7,win,junkertown,defend,4.0,mercy,support
+7,loss,route 66,defend,8.0,mercy,support
+7,loss,route 66,attack,4.0,mercy,support
+7,loss,temple of anubis,attack,8.0,zen,support
+7,loss,temple of anubis,defend,4.0,mercy,support
+7,loss,gibraltar,defend,4.5,moira,support
+7,loss,oasis,cp,14.0,moira,support
+7,win,eichenwalde,attack,4.0,moira,support
+7,win,eichenwalde,defend,4.0,mercy,support
+7,win,king's row,defend,4.0,mercy,support
+7,win,king's row,attack,3.0,moira,support
+7,loss,hanamura,defend,2.0,moira,support
+7,loss,hanamura,attack,8.0,mercy,support
+7,loss,hanamura,defend,4.0,symmetra,damage
+7,win,route 66,defend,8.0,mercy,support
+7,win,route 66,attack,6.0,moira,support
+7,win,volskaya industries,attack,4.0,moira,support
+7,win,volskaya industries,defend,8.0,mercy,support
+7,win,horizon,attack,5.0,lucio,support
+7,win,horizon,defend,4.0,mercy,support
+7,loss,dorado,attack,7.0,orisa,tank
+7,loss,hollywood,attack,7.0,moira,support
+7,loss,hollywood,defend,7.0,orisa,tank
+7,win,lijiang tower,cp,11.5,lucio,support
+7,loss,gibraltar,defend,7.0,moira,support
+7,loss,gibraltar,attack,4.0,moira,support
+7,loss,junkertown,defend,8.0,mercy,support
+7,loss,junkertown,attack,7.0,moira,support
+7,win,oasis,cp,10.5,moira,support
+7,win,route 66,defend,4.0,moira,support
+7,win,route 66,attack,3.0,moira,support
+7,win,lijiang tower,cp,9.5,lucio,support
+7,win,volskaya industries,defend,8.0,mercy,support
+7,win,volskaya industries,attack,7.0,mercy,support
+7,win,eichenwalde,attack,7.0,mercy,support
+7,win,eichenwalde,defend,4.0,mercy,support
+7,loss,hanamura,attack,2.0,mercy,support
+7,loss,hanamura,defend,7.0,mercy,support
+7,loss,hanamura,defend,1.0,mercy,support
+7,loss,hanamura,attack,6.0,mercy,support
+7,win,temple of anubis,defend,8.0,mercy,support
+7,win,temple of anubis,attack,6.0,mercy,support
+7,win,volskaya industries,attack,8.0,mercy,support
+7,win,volskaya industries,defend,4.0,mercy,support
+7,loss,nepal,cp,6.0,lucio,support
+7,win,junkertown,attack,7.0,mercy,support
+7,win,junkertown,defend,4.0,mercy,support
+7,loss,hanamura,attack,8.0,mercy,support
+7,loss,hanamura,defend,5.0,mercy,support
+7,win,temple of anubis,attack,4.0,moira,support
+7,win,hollywood,attack,7.0,mercy,support
+7,win,hollywood,defend,4.0,mercy,support
+7,win,oasis,cp,8.5,mercy,support
+7,loss,dorado,attack,8.0,mercy,support
+7,loss,dorado,defend,6.0,mercy,support
+7,loss,illios,cp,8.0,lucio,support
+7,loss,eichenwalde,attack,4.0,moira,support
+7,loss,eichenwalde,defend,4.0,moira,support
+7,win,hanamura,attack,8.5,moira,support
+7,win,hanamura,defend,4.0,moira,support
+7,win,hollywood,defend,7.0,mercy,support
+7,win,hollywood,attack,7.0,mercy,support
+7,loss,horizon,defend,1.5,moira,support
+7,loss,horizon,attack,8.0,moira,support
+7,win,junkertown,attack,8.0,moira,support
+7,win,junkertown,defend,4.0,d'va,tank
+7,loss,route 66,attack,7.0,moira,support
+7,loss,route 66,defend,7.0,moira,support
+7,win,eichenwalde,attack,4.5,moira,support
+7,win,eichenwalde,defend,7.0,moira,support
+7,win,oasis,cp,8.0,mercy,support
+7,loss,lijiang tower,cp,9.0,lucio,support
+7,loss,temple of anubis,attack,8.0,mercy,support
+7,loss,temple of anubis,defend,8.0,mercy,support
+7,win,gibraltar,defend,4.0,moira,support
+7,win,gibraltar,attack,2.0,moira,support
+7,win,eichenwalde,defend,8.0,moira,support
+7,win,eichenwalde,attack,8.0,moira,support
+7,win,eichenwalde,defend,1.0,mercy,support
+7,win,eichenwalde,attack,1.0,moira,support
+7,win,nepal,cp,13.5,moira,support
+7,loss,king's row,defend,4.5,moira,support
+7,loss,king's row,attack,8.0,moira,support
+7,loss,king's row,defend,3.0,moira,support
+7,loss,eichenwalde,attack,8.0,ana,support
+7,loss,eichenwalde,defend,7.5,ana,support
+7,loss,hanamura,attack,8.0,moira,support
+7,loss,hanamura,defend,4.0,moira,support
+7,win,volskaya industries,attack,2.0,zen,support
+7,win,volskaya industries,defend,8.0,zen,support
+7,loss,nepal,cp,10.0,moira,support
+7,win,junkertown,attack,7.0,moira,support
+7,win,junkertown,defend,7.0,moira,support
+7,win,gibraltar,attack,6.0,moira,support
+7,win,gibraltar,defend,4.0,moira,support
+7,loss,eichenwalde,attack,7.0,moira,support
+7,loss,eichenwalde,defend,7.0,moira,support
+7,loss,dorado,attack,8.0,moira,support
+7,loss,dorado,defend,7.0,moira,support
+7,win,king's row,attack,6.0,moira,support
+7,win,king's row,defend,6.5,moira,support
+7,win,king's row,defend,1.5,moira,support
+7,win,king's row,attack,0.5,moira,support
+7,win,lijiang tower,cp,10.0,moira,support
+7,draw,hanamura,attack,4.0,mercy,support
+7,draw,hanamura,defend,5.0,mercy,support
+7,draw,hanamura,defend,3.0,mercy,support
+7,draw,hanamura,attack,4.0,mercy,support
+7,win,numbani,attack,8.0,moira,support
+7,win,numbani,defend,4.0,moira,support
+7,loss,eichenwalde,defend,5.5,moira,support
+7,loss,eichenwalde,attack,8.0,moira,support
+7,loss,junkertown,defend,6.0,moira,support
+7,loss,junkertown,attack,7.0,moira,support
+7,loss,route 66,defend,8.0,mercy,support
+7,loss,route 66,attack,8.0,mercy,support
+7,loss,horizon,defend,2.5,moira,support
+7,loss,horizon,attack,8.0,moira,support
+7,win,volskaya industries,attack,3.0,moira,support
+7,win,volskaya industries,defend,8.0,moira,support
+7,win,numbani,attack,8.0,moira,support
+7,win,numbani,defend,8.0,moira,support
+7,win,king's row,attack,4.0,moira,support
+7,win,king's row,defend,4.0,mercy,support
+7,win,horizon,defend,4.0,mercy,support
+7,win,horizon,attack,4.0,mercy,support
+7,loss,eichenwalde,attack,8.0,moira,support
+7,loss,eichenwalde,defend,6.0,mercy,support
+7,win,temple of anubis,attack,8.0,moira,support
+7,win,temple of anubis,defend,8.0,moira,support
+7,loss,hanamura,defend,4.0,mercy,support
+7,loss,hanamura,attack,8.0,zen,support
+7,loss,junkertown,defend,8.0,moira,support
+7,loss,junkertown,attack,4.0,moira,support
+7,loss,horizon,attack,6.0,moira,support
+7,loss,horizon,defend,4.0,mercy,support
+7,loss,horizon,defend,2.5,moira,support
+7,loss,horizon,attack,4.0,moira,support
+7,loss,eichenwalde,defend,7.0,moira,support
+7,loss,eichenwalde,attack,7.0,moira,support
+7,loss,volskaya industries,defend,6.5,moira,support
+7,loss,volskaya industries,attack,7.0,moira,support
+7,loss,volskaya industries,attack,2.0,lucio,support
+7,loss,volskaya industries,defend,2.5,ana,support
+7,win,numbani,defend,8.0,mercy,support
+7,win,numbani,attack,7.0,moira,support
+7,loss,hollywood,defend,8.0,mercy,support
+7,loss,hollywood,attack,7.0,moira,support
+7,win,king's row,attack,6.0,mercy,support
+7,win,king's row,defend,8.0,mercy,support
+7,loss,route 66,defend,8.0,mercy,support
+7,loss,route 66,attack,4.0,mercy,support
+7,win,junkertown,defend,8.0,mercy,support
+7,win,junkertown,attack,8.0,mercy,support
+7,loss,volskaya industries,defend,4.5,moira,support
+7,loss,volskaya industries,attack,3.5,mercy,support
+7,loss,volskaya industries,defend,3.0,moira,support
+7,loss,volskaya industries,attack,4.5,ana,support
+7,win,illios,cp,7.5,lucio,support
+7,win,eichenwalde,attack,5.5,moira,support
+7,win,eichenwalde,defend,8.0,moira,support
+7,loss,gibraltar,attack,7.0,moira,support
+7,win,lijiang tower,cp,6.5,lucio,support
+7,win,illios,cp,14.0,lucio,support
+7,win,numbani,defend,4.0,mercy,support
+7,win,numbani,attack,3.0,mercy,support
+7,loss,hollywood,defend,8.0,mercy,support
+7,loss,hollywood,attack,7.0,moira,support
+7,win,dorado,attack,3.0,moira,support
+7,win,dorado,defend,8.0,moira,support
+7,win,volskaya industries,defend,4.0,mercy,support
+7,win,volskaya industries,attack,4.0,mercy,support
+7,win,king's row,defend,4.0,mercy,support
+7,win,temple of anubis,defend,8.0,mercy,support
+7,win,temple of anubis,attack,1.5,mercy,support
+7,win,temple of anubis,defend,0.5,mercy,support
+7,win,temple of anubis,attack,4.0,mercy,support
+7,loss,junkertown,attack,4.0,moira,support
+7,loss,junkertown,defend,3.0,moira,support
+7,loss,horizon,defend,4.0,mercy,support
+7,loss,horizon,attack,4.0,moira,support
+7,loss,eichenwalde,defend,7.5,moira,support
+7,loss,eichenwalde,attack,7.5,moira,support
+7,loss,eichenwalde,attack,4.0,moira,support
+7,loss,eichenwalde,defend,4.0,moira,support
+7,loss,gibraltar,defend,8.0,mercy,support
+7,loss,gibraltar,attack,8.0,mercy,support
+7,win,temple of anubis,defend,4.0,mercy,support
+7,win,temple of anubis,attack,4.0,mercy,support
+7,loss,hanamura,defend,3.5,mercy,support
+7,loss,hanamura,attack,7.5,mercy,support
+7,loss,hanamura,attack,1.5,mercy,support
+7,loss,hanamura,defend,3.5,mercy,support
+7,loss,gibraltar,defend,8.0,mercy,support
+7,loss,gibraltar,attack,4.0,moira,support
+7,win,route 66,defend,4.0,moira,support
+7,win,route 66,attack,2.0,moira,support
+7,loss,numbani,defend,4.5,moira,support
+7,loss,junkertown,defend,8.0,mercy,support
+7,loss,junkertown,attack,4.0,mercy,support
+7,loss,numbani,attack,8.0,mercy,support
+7,loss,numbani,defend,7.0,mercy,support
+7,loss,eichenwalde,attack,4.0,mercy,support
+7,loss,eichenwalde,defend,5.0,mercy,support
+7,win,illios,cp,10.0,lucio,support
+7,win,horizon,attack,3.5,moira,support
+7,win,horizon,defend,3.5,moira,support
+7,win,horizon,defend,4.5,moira,support
+7,win,horizon,attack,2.0,moira,support
+7,loss,hollywood,defend,4.5,moira,support
+7,loss,hollywood,attack,7.0,moira,support
+7,win,gibraltar,defend,4.0,moira,support
+7,win,gibraltar,attack,2.0,moira,support
+7,loss,volskaya industries,attack,8.0,moira,support
+7,loss,volskaya industries,defend,3.0,mercy,support
+7,loss,route 66,attack,8.0,moira,support
+7,loss,route 66,defend,8.0,moira,support
+7,loss,route 66,attack,1.0,lucio,support
+7,loss,route 66,defend,1.0,moira,support
+7,loss,temple of anubis,attack,8.0,mercy,support
+7,loss,temple of anubis,defend,6.0,d'va,tank
+7,win,volskaya industries,attack,3.0,mercy,support
+7,win,junkertown,attack,6.5,mercy,support
+7,win,junkertown,defend,6.0,roadhog,tank
+7,win,junkertown,attack,6.0,mercy,support
+7,win,junkertown,defend,3.0,mercy,support
+7,win,numbani,defend,8.0,moira,support
+7,win,numbani,attack,7.0,mercy,support
+7,win,numbani,defend,1.0,mercy,support
+7,win,numbani,attack,1.0,mercy,support
+7,loss,hanamura,defend,3.5,mercy,support
+7,loss,hanamura,attack,7.5,orisa,tank
+7,loss,hanamura,attack,1.0,mercy,support
+7,loss,hanamura,defend,4.0,mercy,support
+7,loss,temple of anubis,attack,8.0,moira,support
+7,loss,temple of anubis,defend,7.0,moira,support
+7,draw,eichenwalde,defend,4.0,moira,support
+7,draw,eichenwalde,attack,4.0,moira,support
+7,win,horizon,attack,2.5,moira,support
+7,win,horizon,defend,4.0,moira,support
+7,win,gibraltar,defend,8.0,mercy,support
+7,win,gibraltar,attack,7.0,mercy,support
+7,win,gibraltar,defend,5.0,moira,support
+7,win,gibraltar,attack,7.0,moira,support
+7,win,illios,cp,6.5,lucio,support
+7,loss,oasis,cp,10.0,moira,support
+7,loss,nepal,cp,14.0,moira,support
+7,win,numbani,attack,8.0,moira,support
+7,win,numbani,defend,8.0,mercy,support
+7,win,illios,cp,10.0,lucio,support
+7,win,king's row,defend,7.0,mercy,support
+7,win,king's row,attack,6.0,mercy,support
+7,win,volskaya industries,defend,3.0,moira,support
+7,win,volskaya industries,attack,3.5,moira,support
+7,win,horizon,defend,2.5,moira,support
+7,win,horizon,attack,5.0,mercy,support
+7,win,horizon,attack,3.0,mercy,support
+7,win,horizon,defend,4.0,mercy,support
+7,win,horizon,attack,1.0,mercy,support
+7,win,horizon,defend,1.0,mercy,support
+7,loss,numbani,defend,4.0,moira,support
+7,loss,numbani,attack,8.0,mercy,support
+7,loss,eichenwalde,attack,4.0,mercy,support
+7,loss,eichenwalde,defend,3.0,mercy,support
+7,loss,hanamura,attack,8.0,moira,support
+7,loss,hanamura,defend,4.0,moira,support
+7,loss,hanamura,defend,3.0,mercy,support
+7,win,temple of anubis,defend,7.0,moira,support
+7,win,temple of anubis,attack,5.5,moira,support
+7,win,temple of anubis,defend,1.5,moira,support
+7,win,temple of anubis,attack,3.0,moira,support
+7,win,dorado,attack,8.0,mercy,support
+7,win,dorado,defend,8.0,mercy,support
+7,win,nepal,cp,6.0,moira,support
+7,win,temple of anubis,attack,2.5,moira,support
+7,win,temple of anubis,defend,8.0,moira,support
+7,loss,hanamura,attack,4.0,moira,support
+7,loss,hanamura,defend,3.0,moira,support
+7,loss,junkertown,attack,8.0,moira,support
+7,loss,junkertown,defend,7.5,moira,support
+7,loss,illios,cp,12.0,lucio,support
+7,loss,dorado,attack,7.0,moira,support
+7,loss,dorado,defend,5.0,zen,support
+7,loss,route 66,attack,8.0,zen,support
+7,loss,oasis,cp,10.0,mercy,support
+7,loss,hollywood,attack,4.0,moira,support
+7,loss,hollywood,defend,2.0,moira,support
+7,loss,gibraltar,defend,7.0,mercy,support
+7,loss,gibraltar,attack,4.0,mercy,support
+7,win,hanamura,attack,8.0,mercy,support
+7,win,hanamura,defend,4.0,mercy,support
+7,win,numbani,attack,8.0,mercy,support
+7,win,numbani,defend,7.0,mercy,support
+7,loss,horizon,defend,4.5,mercy,support
+7,loss,horizon,attack,8.0,mercy,support
+7,win,illios,cp,10.0,mercy,support
